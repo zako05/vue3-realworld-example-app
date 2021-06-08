@@ -1,0 +1,873 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/Users/michalzak/workspace/realworld-example-app-vue3/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210321.0/
+0	cypress/fixtures/articles.json	/^        "pop",$/;"	s	array:articles.1.tagList
+0	cypress/fixtures/articles.json	/^        "tuio"$/;"	s	array:articles.6.tagList
+0	cypress/fixtures/articles.json	/^    {$/;"	o	array:articles
+0	cypress/fixtures/articles_of_tag.json	/^        "HITLER",$/;"	s	array:articles.0.tagList
+0	cypress/fixtures/articles_of_tag.json	/^        "HuManIty",$/;"	s	array:articles.3.tagList
+0	cypress/fixtures/articles_of_tag.json	/^        "HuManIty",$/;"	s	array:articles.4.tagList
+0	cypress/fixtures/articles_of_tag.json	/^        "HuManIty",$/;"	s	array:articles.5.tagList
+0	cypress/fixtures/articles_of_tag.json	/^        "HuManIty",$/;"	s	array:articles.6.tagList
+0	cypress/fixtures/articles_of_tag.json	/^        "HuManIty",$/;"	s	array:articles.7.tagList
+0	cypress/fixtures/articles_of_tag.json	/^        "HuManIty",$/;"	s	array:articles.8.tagList
+0	cypress/fixtures/articles_of_tag.json	/^        "butt"$/;"	s	array:articles.1.tagList
+0	cypress/fixtures/articles_of_tag.json	/^        "butt",$/;"	s	array:articles.2.tagList
+0	cypress/fixtures/articles_of_tag.json	/^    {$/;"	o	array:articles
+0	cypress/fixtures/tags.json	/^    "HuManIty",$/;"	s	array:tags
+0	package.json	/^      "<rootDir>"$/;"	s	array:jest.modulePaths
+0	package.json	/^      "<rootDir>\/src\/**\/*.spec.ts"$/;"	s	array:jest.testMatch
+0	package.json	/^      "<rootDir>\/src\/**\/*.{ts,vue}",$/;"	s	array:jest.collectCoverageFrom
+0	package.json	/^      "<rootDir>\/src\/setup-test.ts"$/;"	s	array:jest.setupFilesAfterEnv
+0	package.json	/^      "vue",$/;"	s	array:jest.moduleFileExtensions
+0	tsconfig.json	/^    "src"$/;"	s	array:include
+1	cypress/fixtures/articles.json	/^        "btsArmy",$/;"	s	array:articles.1.tagList
+1	cypress/fixtures/articles.json	/^    {$/;"	o	array:articles
+1	cypress/fixtures/articles_of_tag.json	/^        "butt"$/;"	s	array:articles.3.tagList
+1	cypress/fixtures/articles_of_tag.json	/^        "butt"$/;"	s	array:articles.4.tagList
+1	cypress/fixtures/articles_of_tag.json	/^        "butt"$/;"	s	array:articles.5.tagList
+1	cypress/fixtures/articles_of_tag.json	/^        "butt"$/;"	s	array:articles.6.tagList
+1	cypress/fixtures/articles_of_tag.json	/^        "butt"$/;"	s	array:articles.7.tagList
+1	cypress/fixtures/articles_of_tag.json	/^        "butt"$/;"	s	array:articles.8.tagList
+1	cypress/fixtures/articles_of_tag.json	/^        "dragons",$/;"	s	array:articles.0.tagList
+1	cypress/fixtures/articles_of_tag.json	/^        "dragons",$/;"	s	array:articles.2.tagList
+1	cypress/fixtures/articles_of_tag.json	/^    {$/;"	o	array:articles
+1	cypress/fixtures/tags.json	/^    "Gandhi",$/;"	s	array:tags
+1	package.json	/^      "!<rootDir>\/src\/config.ts"$/;"	s	array:jest.collectCoverageFrom
+1	package.json	/^      "ts",$/;"	s	array:jest.moduleFileExtensions
+2	cypress/fixtures/articles.json	/^        "bts"$/;"	s	array:articles.1.tagList
+2	cypress/fixtures/articles.json	/^    {$/;"	o	array:articles
+2	cypress/fixtures/articles_of_tag.json	/^        "butt"$/;"	s	array:articles.0.tagList
+2	cypress/fixtures/articles_of_tag.json	/^        "test"$/;"	s	array:articles.2.tagList
+2	cypress/fixtures/articles_of_tag.json	/^    {$/;"	o	array:articles
+2	cypress/fixtures/tags.json	/^    "HITLER",$/;"	s	array:tags
+2	package.json	/^      "js",$/;"	s	array:jest.moduleFileExtensions
+3	cypress/fixtures/articles.json	/^    {$/;"	o	array:articles
+3	cypress/fixtures/articles_of_tag.json	/^    {$/;"	o	array:articles
+3	cypress/fixtures/tags.json	/^    "SIDA",$/;"	s	array:tags
+3	package.json	/^      "json",$/;"	s	array:jest.moduleFileExtensions
+4	cypress/fixtures/articles.json	/^    {$/;"	o	array:articles
+4	cypress/fixtures/articles_of_tag.json	/^    {$/;"	o	array:articles
+4	cypress/fixtures/tags.json	/^    "BlackLivesMatter",$/;"	s	array:tags
+4	package.json	/^      "node"$/;"	s	array:jest.moduleFileExtensions
+5	cypress/fixtures/articles.json	/^    {$/;"	o	array:articles
+5	cypress/fixtures/articles_of_tag.json	/^    {$/;"	o	array:articles
+5	cypress/fixtures/tags.json	/^    "test",$/;"	s	array:tags
+6	cypress/fixtures/articles.json	/^    {$/;"	o	array:articles
+6	cypress/fixtures/articles_of_tag.json	/^    {$/;"	o	array:articles
+6	cypress/fixtures/tags.json	/^    "dragons",$/;"	s	array:tags
+7	cypress/fixtures/articles.json	/^    {$/;"	o	array:articles
+7	cypress/fixtures/articles_of_tag.json	/^    {$/;"	o	array:articles
+7	cypress/fixtures/tags.json	/^    "butt"$/;"	s	array:tags
+8	cypress/fixtures/articles.json	/^    {$/;"	o	array:articles
+8	cypress/fixtures/articles_of_tag.json	/^    {$/;"	o	array:articles
+9	cypress/fixtures/articles.json	/^    {$/;"	o	array:articles
+@babel/core	package.json	/^    "@babel\/core": "^7.13.16",$/;"	s	object:devDependencies
+@harlem/core	package.json	/^    "@harlem\/core": "^1.3.1",$/;"	s	object:dependencies
+@types/jest	package.json	/^    "@types\/jest": "^26.0.22",$/;"	s	object:devDependencies
+@typescript-eslint/eslint-plugin	package.json	/^    "@typescript-eslint\/eslint-plugin": "^4.22.0",$/;"	s	object:devDependencies
+@typescript-eslint/parser	package.json	/^    "@typescript-eslint\/parser": "^4.22.0",$/;"	s	object:devDependencies
+@vitejs/plugin-vue	package.json	/^    "@vitejs\/plugin-vue": "^1.2.1",$/;"	s	object:devDependencies
+@vue/compiler-sfc	package.json	/^    "@vue\/compiler-sfc": "^3.0.11",$/;"	s	object:devDependencies
+@vue/test-utils	package.json	/^    "@vue\/test-utils": "^2.0.0-rc.6",$/;"	s	object:devDependencies
+ARTICLE	cypress/constants.js	/^  ARTICLE: '#\/article\/article-title',$/;"	p	class:ROUTES
+AppRouteNames	src/router.ts	/^export type AppRouteNames = 'global-feed'$/;"	a
+Article	FRONTEND_INSTRUCTIONS.md	/^### Article$/;"	S	section:Templates""Pages
+Article	src/types/article.d.ts	/^declare interface Article {$/;"	i
+ArticleComment	src/types/comment.d.ts	/^declare interface ArticleComment {$/;"	i
+ArticleResponse	src/types/response.d.ts	/^declare interface ArticleResponse {$/;"	i
+ArticlesResponse	src/types/response.d.ts	/^declare interface ArticlesResponse {$/;"	i
+ArticlesType	src/composable/useArticles.ts	/^export type ArticlesType = 'global-feed' | 'my-feed' | 'tag-feed' | 'user-feed' | 'user-favorite/;"	a
+AuthorizationError	src/types/error.ts	/^export class AuthorizationError extends CustomNetworkError {$/;"	c
+CONFIG	src/config.ts	/^export const CONFIG = {$/;"	C
+Chainable	cypress/support/index.d.ts	/^  interface Chainable {$/;"	i	namespace:Cypress
+CheckableMethod	src/utils/request.spec.ts	/^type CheckableMethod = CheckableSafeMethod | CheckableUnsafeMethod$/;"	a
+CheckableSafeMethod	src/utils/request.spec.ts	/^type CheckableSafeMethod = 'checkableGet' | 'checkableDelete'$/;"	a
+CheckableUnsafeMethod	src/utils/request.spec.ts	/^type CheckableUnsafeMethod = 'checkablePost' | 'checkablePut' | 'checkablePatch'$/;"	a
+CommentResponse	src/types/response.d.ts	/^declare interface CommentResponse {$/;"	i
+CommentsResponse	src/types/response.d.ts	/^declare interface CommentsResponse {$/;"	i
+Component	src/shimes-vue.d.ts	/^  const Component: ReturnType<typeof defineComponent>$/;"	C
+Create/Edit Article	FRONTEND_INSTRUCTIONS.md	/^### Create\/Edit Article$/;"	S	section:Templates""Pages
+CreateAsyncProcessReturn	src/utils/create-async-process.ts	/^interface CreateAsyncProcessReturn<T extends (...args: any[]) => any> {$/;"	i
+CustomNetworkError	src/types/error.ts	/^class CustomNetworkError extends Error {$/;"	c
+Cypress	cypress/support/index.d.ts	/^declare namespace Cypress {$/;"	n
+DATA	src/utils/request.spec.ts	/^  const DATA = { foo: 'bar' }$/;"	C
+DATA	src/utils/storage.spec.ts	/^  const DATA = { foo: 'bar' }$/;"	C
+DATA_TYPE	src/utils/request.spec.ts	/^  interface DATA_TYPE { foo: 'bar' }$/;"	i
+Either	src/utils/either.ts	/^export type Either<L, R> =$/;"	a
+EitherConstructor	src/utils/either.ts	/^class EitherConstructor<L, R, T extends EitherType = EitherType> {$/;"	c
+EitherType	src/utils/either.ts	/^const enum EitherType {$/;"	g
+FetchRequest	src/utils/request.ts	/^export default class FetchRequest {$/;"	c
+FetchRequestOptions	src/utils/request.ts	/^export interface FetchRequestOptions {$/;"	i
+FetchResponseBody	src/utils/test/mock-fetch.ts	/^interface FetchResponseBody {$/;"	i
+FetchResponseFull	src/utils/test/mock-fetch.ts	/^interface FetchResponseFull {$/;"	i
+Footer	FRONTEND_INSTRUCTIONS.md	/^### Footer$/;"	S	section:Templates""Layout
+Getting started	README.md	/^# Getting started$/;"	c
+HOME	cypress/constants.js	/^  HOME: '#\/',$/;"	p	class:ROUTES
+Header	FRONTEND_INSTRUCTIONS.md	/^### Header$/;"	S	section:Templates""Layout
+Home	FRONTEND_INSTRUCTIONS.md	/^### Home$/;"	S	section:Templates""Pages
+ImportMeta	src/shimes-vue.d.ts	/^interface ImportMeta {$/;"	i
+KEY	src/utils/storage.spec.ts	/^  const KEY = 'key'$/;"	C
+LOGIN	cypress/constants.js	/^  LOGIN: '#\/login',$/;"	p	class:ROUTES
+Layout	FRONTEND_INSTRUCTIONS.md	/^## Layout$/;"	s	chapter:Templates
+Left	src/utils/either.ts	/^  Left = 'Left',$/;"	e	enum:EitherType
+LocalStorageKey	src/utils/test/mock-local-storage.ts	/^type LocalStorageKey = 'getItem' | 'setItem' | 'removeItem'$/;"	a
+Login/Register	FRONTEND_INSTRUCTIONS.md	/^### Login\/Register$/;"	S	section:Templates""Pages
+Method	src/utils/request.spec.ts	/^type Method = SafeMethod | UnsafeMethod$/;"	a
+NetworkError	src/types/error.ts	/^export class NetworkError extends CustomNetworkError {$/;"	c
+OPTIONS	src/utils/request.spec.ts	/^  const OPTIONS = { headers: { Authorization: `Token ${TOKEN}` } }$/;"	C
+PARAMS	src/utils/request.spec.ts	/^const PARAMS = { q1: 'q1', q2: 'q2' }$/;"	C
+PATH	src/utils/request.spec.ts	/^const PATH = '\/path'$/;"	C
+PREFIX	src/utils/request.spec.ts	/^const PREFIX = '\/prefix'$/;"	C
+Pages	FRONTEND_INSTRUCTIONS.md	/^## Pages$/;"	s	chapter:Templates
+PostArticleForm	src/services/article/postArticle.ts	/^interface PostArticleForm {$/;"	i
+PostLoginErrors	src/services/auth/postLogin.ts	/^export type PostLoginErrors = Partial<Record<keyof PostLoginForm, string[]>>$/;"	a
+PostLoginForm	src/services/auth/postLogin.ts	/^export interface PostLoginForm {$/;"	i
+PostRegisterErrors	src/services/auth/postRegister.ts	/^export type PostRegisterErrors = Partial<Record<keyof PostRegisterForm, string[]>>$/;"	a
+PostRegisterForm	src/services/auth/postRegister.ts	/^export interface PostRegisterForm {$/;"	i
+Profile	FRONTEND_INSTRUCTIONS.md	/^### Profile$/;"	S	section:Templates""Pages
+Profile	src/types/user.d.ts	/^declare interface Profile {$/;"	i
+ProfileResponse	src/types/response.d.ts	/^declare interface ProfileResponse {$/;"	i
+PutProfileForm	src/services/profile/putProfile.ts	/^export interface PutProfileForm {$/;"	i
+REGISTER	cypress/constants.js	/^  REGISTER: '#\/register',$/;"	p	class:ROUTES
+RESPONSE	src/utils/map-checkable-response.spec.ts	/^    const RESPONSE = { ok: false, status: 400 }$/;"	C
+RESPONSE	src/utils/map-checkable-response.spec.ts	/^    const RESPONSE = { ok: false, status: 401 }$/;"	C
+RESPONSE	src/utils/map-checkable-response.spec.ts	/^    const RESPONSE = { ok: false, status: 422, json: () => Promise.resolve({ errors: { foo: 'bar/;"	C
+RESPONSE	src/utils/map-checkable-response.spec.ts	/^    const RESPONSE = { ok: true }$/;"	C
+ROUTES	cypress/constants.js	/^export const ROUTES = {$/;"	c
+Right	src/utils/either.ts	/^  Right = 'Right'$/;"	e	enum:EitherType
+Routing Guidelines	FRONTEND_INSTRUCTIONS.md	/^### Routing Guidelines$/;"	S
+SETTINGS	cypress/constants.js	/^  SETTINGS: '#\/settings',$/;"	p	class:ROUTES
+STATE	src/store/user.ts	/^const STATE: State = {$/;"	C
+SUB_PREFIX	src/utils/request.spec.ts	/^const SUB_PREFIX = '\/sub-prefix'$/;"	C
+SafeMethod	src/utils/request.spec.ts	/^type SafeMethod = 'get' | 'delete' | 'checkableGet' | 'checkableDelete'$/;"	a
+Settings	FRONTEND_INSTRUCTIONS.md	/^### Settings$/;"	S	section:Templates""Pages
+State	src/store/user.ts	/^interface State {$/;"	i
+Storage	src/utils/storage.ts	/^export default class Storage<T = unknown> {$/;"	c
+StorageType	src/utils/storage.ts	/^type StorageType = 'localStorage' | 'sessionStorage'$/;"	a
+Styles	FRONTEND_INSTRUCTIONS.md	/^# Styles$/;"	c
+TOKEN	src/utils/request.spec.ts	/^  const TOKEN = 'token'$/;"	C
+TagsResponse	src/types/response.d.ts	/^declare interface TagsResponse {$/;"	i
+Templates	FRONTEND_INSTRUCTIONS.md	/^# Templates$/;"	c
+UnsafeMethod	src/utils/request.spec.ts	/^type UnsafeMethod = 'post' | 'put' | 'patch' | 'checkablePost' | 'checkablePut' | 'checkablePatc/;"	a
+UseFollowProps	src/composable/useFollowProfile.ts	/^interface UseFollowProps {$/;"	i
+UseProfileProps	src/composable/useProfile.ts	/^interface UseProfileProps {$/;"	i
+User	src/types/user.d.ts	/^declare interface User {$/;"	i
+UserResponse	src/types/response.d.ts	/^declare interface UserResponse {$/;"	i
+Using the hosted API	FRONTEND_INSTRUCTIONS.md	/^### Using the hosted API$/;"	S
+ValidationError	src/types/error.ts	/^export class ValidationError<T extends Partial<Record<string, string[]>>> extends CustomNetworkE/;"	c
+ValidationErrors	src/utils/map-checkable-response.spec.ts	/^  interface ValidationErrors {[field: string]: string}$/;"	i
+What works?	README.md	/^# What works?$/;"	c
+WrapTestsProps	src/utils/test/wrap-tests.ts	/^interface WrapTestsProps <Item> {$/;"	i
+\x21[RealWorld Example App](logo.png)	README.md	/^# ![RealWorld Example App](logo.png)$/;"	c
+^.+\\\\.vue$	package.json	/^      "^.+\\\\.vue$": "vue-jest",$/;"	s	object:jest.transform
+^.+\\\\js$	package.json	/^      "^.+\\\\js$": "babel-jest"$/;"	s	object:jest.transform
+active	src/composable/useArticles.ts	/^  const { active: articlesDownloading, run: runWrappedFetchArticles } = createAsyncProcess(fetch/;"	C	function:useArticles
+active	src/composable/useFollowProfile.ts	/^  const { active, run } = createAsyncProcess(toggleFollow)$/;"	C	function:useFollow
+active	src/utils/create-async-process.spec.ts	/^    const { active } = createAsyncProcess(someProcess)$/;"	C
+active	src/utils/create-async-process.spec.ts	/^    const { active, run } = createAsyncProcess(someProcess)$/;"	C
+active	src/utils/create-async-process.ts	/^  active: Ref<boolean>$/;"	p	interface:CreateAsyncProcessReturn
+active	src/utils/create-async-process.ts	/^  const active: CreateAsyncProcessReturn<T>['active'] = ref(false)$/;"	C	function:createAsyncProcess
+app	index.html	/^<div id="app"><\/div>$/;"	I
+app	src/main.ts	/^const app = createApp(App)$/;"	C
+article	cypress/fixtures/article.json	/^  "article": {$/;"	o
+article	src/types/response.d.ts	/^  article: Article$/;"	p	interface:ArticleResponse
+article	src/utils/test/fixtures.ts	/^const article: Article = {$/;"	C
+articleBody	src/components/ArticleDetail.spec.ts	/^    const articleBody = wrapper.find('.article-content')$/;"	C
+articleSlug	src/composable/useFavoriteArticle.ts	/^  articleSlug: ComputedRef<string>$/;"	p	interface:useFavoriteArticleProps
+articles	cypress/fixtures/articles.json	/^  "articles": [$/;"	a
+articles	cypress/fixtures/articles_of_tag.json	/^  "articles": [$/;"	a
+articles	src/composable/useArticles.ts	/^  const articles = ref<Article[]>([])$/;"	C	function:useArticles
+articles	src/types/response.d.ts	/^  articles: Article[]$/;"	p	interface:ArticlesResponse
+articlesCount	cypress/fixtures/articles.json	/^  "articlesCount": 500$/;"	n
+articlesCount	cypress/fixtures/articles_of_tag.json	/^  "articlesCount": 500$/;"	n
+articlesCount	src/composable/useArticles.ts	/^  const articlesCount = ref(0)$/;"	C	function:useArticles
+articlesCount	src/types/response.d.ts	/^  articlesCount: number$/;"	p	interface:ArticlesResponse
+articlesType	src/composable/useArticles.ts	/^  const articlesType = ref<ArticlesType>('global-feed')$/;"	C	function:getArticlesMeta
+articlesType	src/composable/useArticles.ts	/^  const { articlesType, tag, username, metaChanged } = getArticlesMeta()$/;"	C	function:useArticles
+articlesTypes	src/composable/useArticles.ts	/^export const articlesTypes: ArticlesType[] = ['global-feed', 'my-feed', 'tag-feed', 'user-feed',/;"	C
+asyncComponentWrapper	src/utils/test/async-component-wrapper.ts	/^export default function asyncComponentWrapper (component: Component): DefineComponent {$/;"	f
+author	cypress/fixtures/article.json	/^    "author": {$/;"	o	object:article
+author	cypress/fixtures/articles.json	/^      "author": {$/;"	o	object:articles.0
+author	cypress/fixtures/articles.json	/^      "author": {$/;"	o	object:articles.1
+author	cypress/fixtures/articles.json	/^      "author": {$/;"	o	object:articles.2
+author	cypress/fixtures/articles.json	/^      "author": {$/;"	o	object:articles.3
+author	cypress/fixtures/articles.json	/^      "author": {$/;"	o	object:articles.4
+author	cypress/fixtures/articles.json	/^      "author": {$/;"	o	object:articles.5
+author	cypress/fixtures/articles.json	/^      "author": {$/;"	o	object:articles.6
+author	cypress/fixtures/articles.json	/^      "author": {$/;"	o	object:articles.7
+author	cypress/fixtures/articles.json	/^      "author": {$/;"	o	object:articles.8
+author	cypress/fixtures/articles.json	/^      "author": {$/;"	o	object:articles.9
+author	cypress/fixtures/articles_of_tag.json	/^      "author": {$/;"	o	object:articles.0
+author	cypress/fixtures/articles_of_tag.json	/^      "author": {$/;"	o	object:articles.1
+author	cypress/fixtures/articles_of_tag.json	/^      "author": {$/;"	o	object:articles.2
+author	cypress/fixtures/articles_of_tag.json	/^      "author": {$/;"	o	object:articles.3
+author	cypress/fixtures/articles_of_tag.json	/^      "author": {$/;"	o	object:articles.4
+author	cypress/fixtures/articles_of_tag.json	/^      "author": {$/;"	o	object:articles.5
+author	cypress/fixtures/articles_of_tag.json	/^      "author": {$/;"	o	object:articles.6
+author	cypress/fixtures/articles_of_tag.json	/^      "author": {$/;"	o	object:articles.7
+author	cypress/fixtures/articles_of_tag.json	/^      "author": {$/;"	o	object:articles.8
+author	src/types/article.d.ts	/^  author: Profile$/;"	p	interface:Article
+author	src/types/comment.d.ts	/^  author: Profile$/;"	p	interface:ArticleComment
+author	src/utils/test/fixtures.ts	/^const author: Profile = {$/;"	C
+babel-jest	package.json	/^    "babel-jest": "^26.6.3",$/;"	s	object:devDependencies
+baseUrl	cypress.json	/^  "baseUrl": "http:\/\/localhost:3000"$/;"	s
+baseUrl	cypress.prod.json	/^  "baseUrl": "https:\/\/mutoe.github.io\/vue3-realworld-example-app",$/;"	s
+beforeEach	src/components/ArticlesListNavigation.spec.ts	/^  beforeEach(async () => {$/;"	C
+bio	cypress/fixtures/article.json	/^      "bio": null,$/;"	z	object:article.author
+bio	cypress/fixtures/articles.json	/^        "bio": "Bleh",$/;"	s	object:articles.1.author
+bio	cypress/fixtures/articles.json	/^        "bio": "lknkjnkjb",$/;"	s	object:articles.2.author
+bio	cypress/fixtures/articles.json	/^        "bio": null,$/;"	z	object:articles.0.author
+bio	cypress/fixtures/articles.json	/^        "bio": null,$/;"	z	object:articles.3.author
+bio	cypress/fixtures/articles.json	/^        "bio": null,$/;"	z	object:articles.4.author
+bio	cypress/fixtures/articles.json	/^        "bio": null,$/;"	z	object:articles.5.author
+bio	cypress/fixtures/articles.json	/^        "bio": null,$/;"	z	object:articles.6.author
+bio	cypress/fixtures/articles.json	/^        "bio": null,$/;"	z	object:articles.7.author
+bio	cypress/fixtures/articles.json	/^        "bio": null,$/;"	z	object:articles.8.author
+bio	cypress/fixtures/articles.json	/^        "bio": null,$/;"	z	object:articles.9.author
+bio	cypress/fixtures/articles_of_tag.json	/^        "bio": "Bình dị, yêu màu hồng và ghét sự giả dối cay đắng và cả mà/;"	s	object:articles.2.author
+bio	cypress/fixtures/articles_of_tag.json	/^        "bio": null,$/;"	z	object:articles.0.author
+bio	cypress/fixtures/articles_of_tag.json	/^        "bio": null,$/;"	z	object:articles.1.author
+bio	cypress/fixtures/articles_of_tag.json	/^        "bio": null,$/;"	z	object:articles.3.author
+bio	cypress/fixtures/articles_of_tag.json	/^        "bio": null,$/;"	z	object:articles.4.author
+bio	cypress/fixtures/articles_of_tag.json	/^        "bio": null,$/;"	z	object:articles.5.author
+bio	cypress/fixtures/articles_of_tag.json	/^        "bio": null,$/;"	z	object:articles.6.author
+bio	cypress/fixtures/articles_of_tag.json	/^        "bio": null,$/;"	z	object:articles.7.author
+bio	cypress/fixtures/articles_of_tag.json	/^        "bio": null,$/;"	z	object:articles.8.author
+bio	cypress/fixtures/profile.json	/^    "bio": null,$/;"	z	object:profile
+bio	cypress/fixtures/user.json	/^    "bio": "aaa22",$/;"	s	object:user
+bio	src/services/profile/putProfile.ts	/^  bio?: string$/;"	p	interface:PutProfileForm
+bio	src/types/user.d.ts	/^  bio: string | undefined$/;"	p	interface:User
+bio	src/types/user.d.ts	/^  bio: string$/;"	p	interface:Profile
+body	cypress/fixtures/article.json	/^    "body": "# Article body\\n\\nThis is **Strong** text",$/;"	s	object:article
+body	cypress/fixtures/articles.json	/^      "body": "1234567QA",$/;"	s	object:articles.9
+body	cypress/fixtures/articles.json	/^      "body": "Don't force people to listen to that boring stuff.\\nDynamite was lit though.",$/;"	s	object:articles.1
+body	cypress/fixtures/articles.json	/^      "body": "Exercitationem inven",$/;"	s	object:articles.5
+body	cypress/fixtures/articles.json	/^      "body": "This is a body of the article",$/;"	s	object:articles.3
+body	cypress/fixtures/articles.json	/^      "body": "This is a body of the article",$/;"	s	object:articles.4
+body	cypress/fixtures/articles.json	/^      "body": "This is a body of the article",$/;"	s	object:articles.7
+body	cypress/fixtures/articles.json	/^      "body": "This is a body of the article",$/;"	s	object:articles.8
+body	cypress/fixtures/articles.json	/^      "body": "saaaaaaaaaaassssss",$/;"	s	object:articles.0
+body	cypress/fixtures/articles.json	/^      "body": "tiuo",$/;"	s	object:articles.6
+body	cypress/fixtures/articles.json	/^      "body": "what else",$/;"	s	object:articles.2
+body	cypress/fixtures/articles_of_tag.json	/^      "body": "Hello guy, I have learnt Angular for few months and honestly it is the best frame/;"	s	object:articles.2
+body	cypress/fixtures/articles_of_tag.json	/^      "body": "ahmad is his lover",$/;"	s	object:articles.0
+body	cypress/fixtures/articles_of_tag.json	/^      "body": "ahmed ahmed ahemd booooooobs",$/;"	s	object:articles.1
+body	cypress/fixtures/articles_of_tag.json	/^      "body": "asfkjh dfuhsdf sdfusdf ",$/;"	s	object:articles.3
+body	cypress/fixtures/articles_of_tag.json	/^      "body": "sagasgasgasgasgasgasg",$/;"	s	object:articles.4
+body	cypress/fixtures/articles_of_tag.json	/^      "body": "sagasgasgasgasgasgasg",$/;"	s	object:articles.5
+body	cypress/fixtures/articles_of_tag.json	/^      "body": "sagasgasgasgasgasgasg",$/;"	s	object:articles.6
+body	cypress/fixtures/articles_of_tag.json	/^      "body": "sagasgasgasgasgasgasg",$/;"	s	object:articles.7
+body	cypress/fixtures/articles_of_tag.json	/^      "body": "sagasgasgasgasgasgasg",$/;"	s	object:articles.8
+body	src/services/article/postArticle.ts	/^  body: string$/;"	p	interface:PostArticleForm
+body	src/types/article.d.ts	/^  body: string$/;"	p	interface:Article
+body	src/types/comment.d.ts	/^  body: string$/;"	p	interface:ArticleComment
+body	src/utils/request.spec.ts	/^  const body = await triggerMethod(request, method)$/;"	C
+body	src/utils/test/fixtures.ts	/^  body: 'Comment body',$/;"	C
+build	package.json	/^    "build": "vite build",$/;"	s	object:scripts
+changePage	src/composable/useArticles.ts	/^  const changePage = (value: number): void => {$/;"	C	function:useArticles
+checkAuthorization	src/store/user.ts	/^export const checkAuthorization = (user: ComputedRef<User | null>): user is ComputedRef<User> =>/;"	C
+chromeWebSecurity	cypress.prod.json	/^  "chromeWebSecurity": false$/;"	b
+collectCoverageFrom	package.json	/^    "collectCoverageFrom": [$/;"	a	object:jest
+comment	src/types/response.d.ts	/^  comment: ArticleComment$/;"	p	interface:CommentResponse
+comment	src/utils/test/fixtures.ts	/^const comment: ArticleComment = {$/;"	C
+comment2	src/utils/test/fixtures.ts	/^const comment2: ArticleComment = {$/;"	C
+comments	src/types/response.d.ts	/^  comments: ArticleComment[]$/;"	p	interface:CommentsResponse
+compilerOptions	tsconfig.json	/^  "compilerOptions": {$/;"	o
+concurrently	package.json	/^    "concurrently": "^6.0.2",$/;"	s	object:devDependencies
+const	src/components/AppPagination.spec.ts	/^    const pageItems = wrapper.findAll('.page-item')$/;"	C
+const	src/components/ArticlesList.spec.ts	/^  const mockFetchArticles = getArticles as jest.MockedFunction<typeof getArticles>$/;"	C
+const	src/store/user.ts	/^const { getter, mutation } = createStore<State>('user', STATE)$/;"	C
+const	src/utils/test/fixtures.ts	/^const article: Article = {$/;"	C
+const	src/utils/test/fixtures.ts	/^const comment2: ArticleComment = {$/;"	C
+const	src/utils/test/fixtures.ts	/^const comment: ArticleComment = {$/;"	C
+const	src/utils/test/fixtures.ts	/^const markdown = '\\n# h1 Heading 8-)\\n## h2 Heading\\n### h3 Heading\\n#### h4 Heading\\n#####/;"	C
+const	src/utils/test/fixtures.ts	/^const user: User = {$/;"	C
+constructor	src/types/error.ts	/^  constructor (name: string, response: Response) {$/;"	m	class:CustomNetworkError
+constructor	src/types/error.ts	/^  constructor (response: Response) {$/;"	m	class:AuthorizationError
+constructor	src/types/error.ts	/^  constructor (response: Response) {$/;"	m	class:NetworkError
+constructor	src/types/error.ts	/^  constructor (response: Response) {$/;"	m	class:ValidationError
+constructor	src/utils/either.ts	/^  private constructor ($/;"	m	class:EitherConstructor
+constructor	src/utils/request.ts	/^  constructor (options: Partial<FetchRequestOptions> = {}) {$/;"	m	class:FetchRequest
+constructor	src/utils/storage.ts	/^  constructor (key: string, storageType: StorageType = 'localStorage') {$/;"	m	class:Storage
+createAsyncProcess	src/utils/create-async-process.ts	/^export default function createAsyncProcess<T extends (...args: any[]) => any> (fn: T): CreateAsy/;"	f
+createCheckableResponse	src/utils/map-checkable-response.spec.ts	/^const createCheckableResponse = (response: Partial<Response>): Either<NetworkError, Partial<Resp/;"	C
+createdAt	cypress/fixtures/article.json	/^    "createdAt": "2020-11-01T14:59:39.404Z",$/;"	s	object:article
+createdAt	cypress/fixtures/articles.json	/^      "createdAt": "2020-10-26T12:03:27.571Z",$/;"	s	object:articles.9
+createdAt	cypress/fixtures/articles.json	/^      "createdAt": "2020-10-26T12:07:43.563Z",$/;"	s	object:articles.8
+createdAt	cypress/fixtures/articles.json	/^      "createdAt": "2020-10-26T12:09:58.427Z",$/;"	s	object:articles.7
+createdAt	cypress/fixtures/articles.json	/^      "createdAt": "2020-10-26T12:12:07.490Z",$/;"	s	object:articles.6
+createdAt	cypress/fixtures/articles.json	/^      "createdAt": "2020-10-26T12:12:27.127Z",$/;"	s	object:articles.5
+createdAt	cypress/fixtures/articles.json	/^      "createdAt": "2020-10-26T12:24:01.290Z",$/;"	s	object:articles.4
+createdAt	cypress/fixtures/articles.json	/^      "createdAt": "2020-10-26T12:26:29.750Z",$/;"	s	object:articles.3
+createdAt	cypress/fixtures/articles.json	/^      "createdAt": "2020-10-26T12:28:46.374Z",$/;"	s	object:articles.2
+createdAt	cypress/fixtures/articles.json	/^      "createdAt": "2020-10-26T12:56:11.674Z",$/;"	s	object:articles.1
+createdAt	cypress/fixtures/articles.json	/^      "createdAt": "2020-10-26T12:56:58.876Z",$/;"	s	object:articles.0
+createdAt	cypress/fixtures/articles_of_tag.json	/^      "createdAt": "2020-10-26T07:10:47.908Z",$/;"	s	object:articles.8
+createdAt	cypress/fixtures/articles_of_tag.json	/^      "createdAt": "2020-10-26T07:10:48.930Z",$/;"	s	object:articles.7
+createdAt	cypress/fixtures/articles_of_tag.json	/^      "createdAt": "2020-10-26T07:10:48.982Z",$/;"	s	object:articles.6
+createdAt	cypress/fixtures/articles_of_tag.json	/^      "createdAt": "2020-10-26T07:10:49.227Z",$/;"	s	object:articles.5
+createdAt	cypress/fixtures/articles_of_tag.json	/^      "createdAt": "2020-10-26T07:10:49.571Z",$/;"	s	object:articles.4
+createdAt	cypress/fixtures/articles_of_tag.json	/^      "createdAt": "2020-10-26T07:10:58.316Z",$/;"	s	object:articles.3
+createdAt	cypress/fixtures/articles_of_tag.json	/^      "createdAt": "2020-10-26T10:59:12.359Z",$/;"	s	object:articles.2
+createdAt	cypress/fixtures/articles_of_tag.json	/^      "createdAt": "2020-10-26T11:18:40.542Z",$/;"	s	object:articles.1
+createdAt	cypress/fixtures/articles_of_tag.json	/^      "createdAt": "2020-10-27T07:59:35.714Z",$/;"	s	object:articles.0
+createdAt	cypress/fixtures/user.json	/^    "createdAt": "2019-10-22T03:22:54.038Z",$/;"	s	object:user
+createdAt	src/types/article.d.ts	/^  createdAt: string$/;"	p	interface:Article
+createdAt	src/types/comment.d.ts	/^  createdAt: string$/;"	p	interface:ArticleComment
+cypress	package.json	/^    "cypress": "^7.1.0",$/;"	s	object:devDependencies
+cypress/**/*.js	package.json	/^    "cypress\/**\/*.js": "eslint --fix"$/;"	s	object:lint-staged
+dateFilter	src/utils/filters.ts	/^export const dateFilter = (dateString: string): string => {$/;"	C
+dateString	src/utils/filters.spec.ts	/^    const dateString = '2019-01-01 00:00:00'$/;"	C
+defaultOptions	src/utils/request.ts	/^  private readonly defaultOptions: FetchRequestOptions = {$/;"	p	class:FetchRequest
+deleteArticle	src/services/article/deleteArticle.ts	/^export function deleteArticle (slug: string): Promise<void> {$/;"	f
+deleteButton	src/components/ArticleDetailComment.spec.ts	/^  const deleteButton = '[role=button][aria-label="Delete comment"]'$/;"	C
+deleteComment	src/services/comment/postComment.ts	/^export function deleteComment (slug: string, commentId: number): Promise<Record<string, unknown>/;"	f
+deleteFavoriteArticle	src/services/article/favoriteArticle.ts	/^export async function deleteFavoriteArticle (slug: string): Promise<Either<AuthorizationError, A/;"	f
+deleteFollowProfile	src/services/profile/followProfile.ts	/^export async function deleteFollowProfile (username: string): Promise<Either<AuthorizationError,/;"	f
+dependencies	package.json	/^  "dependencies": {$/;"	o
+descFn	src/utils/test/wrap-tests.ts	/^  const descFn = only ? describe.only : describe$/;"	C	function:wrapTests
+describe	src/components/ArticleDetailMeta.spec.ts	/^describe('# ArticleDetailMeta', () => {$/;"	C
+describe	src/utils/test/wrap-tests.ts	/^  const descFn = only ? describe.only : describe$/;"	C	function:wrapTests
+description	cypress/fixtures/article.json	/^    "description": "this is descripion",$/;"	s	object:article
+description	cypress/fixtures/articles.json	/^      "description": "1234567QA",$/;"	s	object:articles.9
+description	cypress/fixtures/articles.json	/^      "description": "69 and 69",$/;"	s	object:articles.2
+description	cypress/fixtures/articles.json	/^      "description": "Criticising a band",$/;"	s	object:articles.1
+description	cypress/fixtures/articles.json	/^      "description": "Id in sit vero aute",$/;"	s	object:articles.5
+description	cypress/fixtures/articles.json	/^      "description": "This is a description",$/;"	s	object:articles.3
+description	cypress/fixtures/articles.json	/^      "description": "This is a description",$/;"	s	object:articles.4
+description	cypress/fixtures/articles.json	/^      "description": "This is a description",$/;"	s	object:articles.7
+description	cypress/fixtures/articles.json	/^      "description": "This is a description",$/;"	s	object:articles.8
+description	cypress/fixtures/articles.json	/^      "description": "aaaaaaaaaaassssssssss",$/;"	s	object:articles.0
+description	cypress/fixtures/articles.json	/^      "description": "tyui",$/;"	s	object:articles.6
+description	cypress/fixtures/articles_of_tag.json	/^      "description": "I will share my github project so you guy can see here: https:\/\/github.c/;"	s	object:articles.2
+description	cypress/fixtures/articles_of_tag.json	/^      "description": "ahmed",$/;"	s	object:articles.1
+description	cypress/fixtures/articles_of_tag.json	/^      "description": "mamadi chochor taallaa",$/;"	s	object:articles.0
+description	cypress/fixtures/articles_of_tag.json	/^      "description": "sagasga",$/;"	s	object:articles.3
+description	cypress/fixtures/articles_of_tag.json	/^      "description": "sagasga",$/;"	s	object:articles.4
+description	cypress/fixtures/articles_of_tag.json	/^      "description": "sagasga",$/;"	s	object:articles.5
+description	cypress/fixtures/articles_of_tag.json	/^      "description": "sagasga",$/;"	s	object:articles.6
+description	cypress/fixtures/articles_of_tag.json	/^      "description": "sagasga",$/;"	s	object:articles.7
+description	cypress/fixtures/articles_of_tag.json	/^      "description": "sagasga",$/;"	s	object:articles.8
+description	src/services/article/postArticle.ts	/^  description: string$/;"	p	interface:PostArticleForm
+description	src/types/article.d.ts	/^  description: string$/;"	p	interface:Article
+dev	package.json	/^    "dev": "vite",$/;"	s	object:scripts
+devDependencies	package.json	/^  "devDependencies": {$/;"	o
+email	cypress/fixtures/user.json	/^    "email": "plumrx@example.com",$/;"	s	object:user
+email	src/services/auth/postLogin.ts	/^  email: string$/;"	p	interface:PostLoginForm
+email	src/services/auth/postRegister.ts	/^  email: string$/;"	p	interface:PostRegisterForm
+email	src/services/profile/putProfile.ts	/^  email?: string$/;"	p	interface:PutProfileForm
+email	src/types/user.d.ts	/^  email: string$/;"	p	interface:User
+env	src/shimes-vue.d.ts	/^  env: {$/;"	p	interface:ImportMeta
+esModuleInterop	tsconfig.json	/^    "esModuleInterop": true,$/;"	b	object:compilerOptions
+eslint	package.json	/^    "eslint": "^7.25.0",$/;"	s	object:devDependencies
+eslint-config-standard-with-typescript	package.json	/^    "eslint-config-standard-with-typescript": "^20.0.0",$/;"	s	object:devDependencies
+eslint-plugin-cypress	package.json	/^    "eslint-plugin-cypress": "^2.11.2",$/;"	s	object:devDependencies
+eslint-plugin-import	package.json	/^    "eslint-plugin-import": "^2.22.1",$/;"	s	object:devDependencies
+eslint-plugin-node	package.json	/^    "eslint-plugin-node": "^11.1.0",$/;"	s	object:devDependencies
+eslint-plugin-promise	package.json	/^    "eslint-plugin-promise": "^4.3.1",$/;"	s	object:devDependencies
+eslint-plugin-vue	package.json	/^    "eslint-plugin-vue": "^7.8.0",$/;"	s	object:devDependencies
+events	src/components/AppPagination.spec.ts	/^    const events = wrapper.emitted('page-change')$/;"	C
+events	src/components/ArticleDetailComment.spec.ts	/^    const events = wrapper.emitted('remove-comment')$/;"	C
+events	src/components/ArticleDetailCommentsForm.spec.ts	/^    const events = wrapper.emitted('add-comment')$/;"	C
+expect	src/components/AppLink.spec.ts	/^    expect(wrapper.text()).toContain('Go to Foo tag')$/;"	C
+expectedOptions	src/utils/request.spec.ts	/^    const expectedOptions = { headers: { h1: 'h11', h2: 'h2', h3: 'h3' } }$/;"	C
+expectedOptions	src/utils/request.spec.ts	/^    const expectedOptions = { params: { q1: 'q11', q2: 'q2', q3: 'q3' } }$/;"	C
+fail	src/utils/either.ts	/^  static fail<T, R> (v: T): Either<T, R> {$/;"	m	class:EitherConstructor
+fail	src/utils/either.ts	/^export const { fail, success } = EitherConstructor$/;"	C
+favoriteButton	src/components/ArticlesListArticlePreview.spec.ts	/^  const favoriteButton = '[aria-label="Favorite article"]'$/;"	C
+favorited	cypress/fixtures/article.json	/^    "favorited": true,$/;"	b	object:article
+favorited	cypress/fixtures/articles.json	/^      "favorited": false,$/;"	b	object:articles.0
+favorited	cypress/fixtures/articles.json	/^      "favorited": false,$/;"	b	object:articles.1
+favorited	cypress/fixtures/articles.json	/^      "favorited": false,$/;"	b	object:articles.2
+favorited	cypress/fixtures/articles.json	/^      "favorited": false,$/;"	b	object:articles.3
+favorited	cypress/fixtures/articles.json	/^      "favorited": false,$/;"	b	object:articles.4
+favorited	cypress/fixtures/articles.json	/^      "favorited": false,$/;"	b	object:articles.5
+favorited	cypress/fixtures/articles.json	/^      "favorited": false,$/;"	b	object:articles.6
+favorited	cypress/fixtures/articles.json	/^      "favorited": false,$/;"	b	object:articles.7
+favorited	cypress/fixtures/articles.json	/^      "favorited": false,$/;"	b	object:articles.8
+favorited	cypress/fixtures/articles.json	/^      "favorited": false,$/;"	b	object:articles.9
+favorited	cypress/fixtures/articles_of_tag.json	/^      "favorited": false,$/;"	b	object:articles.0
+favorited	cypress/fixtures/articles_of_tag.json	/^      "favorited": false,$/;"	b	object:articles.1
+favorited	cypress/fixtures/articles_of_tag.json	/^      "favorited": false,$/;"	b	object:articles.2
+favorited	cypress/fixtures/articles_of_tag.json	/^      "favorited": false,$/;"	b	object:articles.3
+favorited	cypress/fixtures/articles_of_tag.json	/^      "favorited": false,$/;"	b	object:articles.4
+favorited	cypress/fixtures/articles_of_tag.json	/^      "favorited": false,$/;"	b	object:articles.5
+favorited	cypress/fixtures/articles_of_tag.json	/^      "favorited": false,$/;"	b	object:articles.6
+favorited	cypress/fixtures/articles_of_tag.json	/^      "favorited": false,$/;"	b	object:articles.7
+favorited	cypress/fixtures/articles_of_tag.json	/^      "favorited": false,$/;"	b	object:articles.8
+favorited	src/types/article.d.ts	/^  favorited: boolean$/;"	p	interface:Article
+favoritesCount	cypress/fixtures/article.json	/^    "favoritesCount": 0$/;"	n	object:article
+favoritesCount	cypress/fixtures/articles.json	/^      "favoritesCount": 0$/;"	n	object:articles.1
+favoritesCount	cypress/fixtures/articles.json	/^      "favoritesCount": 0$/;"	n	object:articles.2
+favoritesCount	cypress/fixtures/articles.json	/^      "favoritesCount": 0$/;"	n	object:articles.3
+favoritesCount	cypress/fixtures/articles.json	/^      "favoritesCount": 0$/;"	n	object:articles.4
+favoritesCount	cypress/fixtures/articles.json	/^      "favoritesCount": 0$/;"	n	object:articles.5
+favoritesCount	cypress/fixtures/articles.json	/^      "favoritesCount": 0$/;"	n	object:articles.6
+favoritesCount	cypress/fixtures/articles.json	/^      "favoritesCount": 0$/;"	n	object:articles.7
+favoritesCount	cypress/fixtures/articles.json	/^      "favoritesCount": 0$/;"	n	object:articles.8
+favoritesCount	cypress/fixtures/articles.json	/^      "favoritesCount": 0$/;"	n	object:articles.9
+favoritesCount	cypress/fixtures/articles.json	/^      "favoritesCount": 1$/;"	n	object:articles.0
+favoritesCount	cypress/fixtures/articles_of_tag.json	/^      "favoritesCount": 0$/;"	n	object:articles.3
+favoritesCount	cypress/fixtures/articles_of_tag.json	/^      "favoritesCount": 0$/;"	n	object:articles.4
+favoritesCount	cypress/fixtures/articles_of_tag.json	/^      "favoritesCount": 0$/;"	n	object:articles.5
+favoritesCount	cypress/fixtures/articles_of_tag.json	/^      "favoritesCount": 0$/;"	n	object:articles.6
+favoritesCount	cypress/fixtures/articles_of_tag.json	/^      "favoritesCount": 0$/;"	n	object:articles.7
+favoritesCount	cypress/fixtures/articles_of_tag.json	/^      "favoritesCount": 0$/;"	n	object:articles.8
+favoritesCount	cypress/fixtures/articles_of_tag.json	/^      "favoritesCount": 1$/;"	n	object:articles.1
+favoritesCount	cypress/fixtures/articles_of_tag.json	/^      "favoritesCount": 2$/;"	n	object:articles.2
+favoritesCount	cypress/fixtures/articles_of_tag.json	/^      "favoritesCount": 3$/;"	n	object:articles.0
+favoritesCount	src/types/article.d.ts	/^  favoritesCount: number$/;"	p	interface:Article
+favoritesCount	src/utils/test/fixtures.ts	/^  favoritesCount: 0,$/;"	C
+fetchOptions	src/utils/request.ts	/^    const fetchOptions: any = { method, headers }$/;"	C
+finalUrl	src/utils/request.ts	/^    const finalUrl = this.generateFinalUrl(url, options)$/;"	C
+finalUrl	src/utils/request.ts	/^    let finalUrl = `${prefix}${url}`$/;"	v
+fn	src/utils/storage.spec.ts	/^      const fn = mockLocalStorage('getItem')$/;"	C
+fn	src/utils/storage.spec.ts	/^      const fn = mockLocalStorage('removeItem')$/;"	C
+fn	src/utils/storage.spec.ts	/^      const fn = mockLocalStorage('setItem')$/;"	C
+fn	src/utils/test/mock-local-storage.ts	/^  const fn = jest.fn().mockReturnValue(stringify ? JSON.stringify(data) : data)$/;"	C	function:mockLocalStorage
+fn	src/utils/test/wrap-tests.ts	/^  fn: (item: Item) => void$/;"	p	interface:WrapTestsProps
+following	cypress/fixtures/article.json	/^      "following": false$/;"	b	object:article.author
+following	cypress/fixtures/articles.json	/^        "following": false$/;"	b	object:articles.0.author
+following	cypress/fixtures/articles.json	/^        "following": false$/;"	b	object:articles.1.author
+following	cypress/fixtures/articles.json	/^        "following": false$/;"	b	object:articles.2.author
+following	cypress/fixtures/articles.json	/^        "following": false$/;"	b	object:articles.3.author
+following	cypress/fixtures/articles.json	/^        "following": false$/;"	b	object:articles.4.author
+following	cypress/fixtures/articles.json	/^        "following": false$/;"	b	object:articles.5.author
+following	cypress/fixtures/articles.json	/^        "following": false$/;"	b	object:articles.6.author
+following	cypress/fixtures/articles.json	/^        "following": false$/;"	b	object:articles.7.author
+following	cypress/fixtures/articles.json	/^        "following": false$/;"	b	object:articles.8.author
+following	cypress/fixtures/articles.json	/^        "following": false$/;"	b	object:articles.9.author
+following	cypress/fixtures/articles_of_tag.json	/^        "following": false$/;"	b	object:articles.0.author
+following	cypress/fixtures/articles_of_tag.json	/^        "following": false$/;"	b	object:articles.1.author
+following	cypress/fixtures/articles_of_tag.json	/^        "following": false$/;"	b	object:articles.2.author
+following	cypress/fixtures/articles_of_tag.json	/^        "following": false$/;"	b	object:articles.3.author
+following	cypress/fixtures/articles_of_tag.json	/^        "following": false$/;"	b	object:articles.4.author
+following	cypress/fixtures/articles_of_tag.json	/^        "following": false$/;"	b	object:articles.5.author
+following	cypress/fixtures/articles_of_tag.json	/^        "following": false$/;"	b	object:articles.6.author
+following	cypress/fixtures/articles_of_tag.json	/^        "following": false$/;"	b	object:articles.7.author
+following	cypress/fixtures/articles_of_tag.json	/^        "following": false$/;"	b	object:articles.8.author
+following	cypress/fixtures/profile.json	/^    "following": false$/;"	b	object:profile
+following	src/composable/useFollowProfile.ts	/^  following: ComputedRef<boolean>$/;"	p	interface:UseFollowProps
+following	src/types/user.d.ts	/^  following: boolean$/;"	p	interface:Profile
+foo	src/utils/request.spec.ts	/^  interface DATA_TYPE { foo: 'bar' }$/;"	p	interface:DATA_TYPE
+forAllMethods	src/utils/request.spec.ts	/^function forAllMethods (task: string, fn: (method: Method | CheckableMethod) => Promise<void>): /;"	f
+forCheckableMethods	src/utils/request.spec.ts	/^function forCheckableMethods (task: string, fn: (method: CheckableMethod) => Promise<void>): voi/;"	f
+forCorrectMethods	src/utils/request.spec.ts	/^function forCorrectMethods (task: string, fn: (method: Method) => Promise<void>): void {$/;"	f
+forceConsistentCasingInFileNames	tsconfig.json	/^    "forceConsistentCasingInFileNames": true$/;"	b	object:compilerOptions
+get	src/utils/storage.ts	/^  get (): T | null {$/;"	m	class:Storage
+getAllTags	src/services/tag/getTags.ts	/^export function getAllTags (): Promise<string[]> {$/;"	f
+getArticle	src/services/article/getArticle.ts	/^export function getArticle (slug: string): Promise<Article> {$/;"	f
+getArticles	src/services/article/getArticles.ts	/^export function getArticles (page = 1): Promise<ArticlesResponse> {$/;"	f
+getArticlesByTag	src/services/article/getArticles.ts	/^export function getArticlesByTag (tagName: string, page = 1): Promise<ArticlesResponse> {$/;"	f
+getArticlesMeta	src/composable/useArticles.ts	/^function getArticlesMeta (): GetArticlesMetaReturn {$/;"	f
+getCommentsByArticle	src/services/comment/getComments.ts	/^export function getCommentsByArticle (slug: string): Promise<ArticleComment[]> {$/;"	f
+getErrors	src/types/error.ts	/^  getErrors (): Promise<T> {$/;"	m	class:ValidationError
+getFavoritedArticles	src/services/article/getArticles.ts	/^export function getFavoritedArticles (username: string, page = 1): Promise<ArticlesResponse> {$/;"	f
+getFeeds	src/services/article/getArticles.ts	/^export function getFeeds (page = 1): Promise<ArticlesResponse> {$/;"	f
+getProfile	src/services/profile/getProfile.ts	/^export function getProfile (username: string): Promise<Profile> {$/;"	f
+getProfileArticles	src/services/article/getArticles.ts	/^export function getProfileArticles (username: string, page = 1): Promise<ArticlesResponse> {$/;"	f
+getter	src/store/user.ts	/^const { getter, mutation } = createStore<State>('user', STATE)$/;"	C
+globalMountOptions	src/components/ArticleDetailMeta.spec.ts	/^const globalMountOptions: GlobalMountOptions = {$/;"	C
+globalMountOptions	src/components/ArticlesList.spec.ts	/^  const globalMountOptions: GlobalMountOptions = {$/;"	C
+globalMountOptions	src/components/ArticlesListNavigation.spec.ts	/^  const globalMountOptions: GlobalMountOptions = {$/;"	C
+globals	package.json	/^    "globals": {$/;"	o	object:jest
+headers	src/utils/request.ts	/^    const fetchOptions: any = { method, headers }$/;"	C
+headers	src/utils/request.ts	/^    const headers = this.generateFinalHeaders(options)$/;"	C
+headers	src/utils/request.ts	/^  headers: Record<string, string>$/;"	p	interface:FetchRequestOptions
+hooks	package.json	/^    "hooks": {$/;"	o	object:husky
+html	src/plugins/marked.ts	/^  const html = marked(markdown, {$/;"	C
+husky	package.json	/^    "husky": "^4.3.8",$/;"	s	object:devDependencies
+husky	package.json	/^  "husky": {$/;"	o
+id	cypress/fixtures/user.json	/^    "id": 71965,$/;"	n	object:user
+id	src/types/comment.d.ts	/^  id: number$/;"	p	interface:ArticleComment
+id	src/types/user.d.ts	/^  id: number$/;"	p	interface:User
+id	src/utils/test/fixtures.ts	/^  id: 1,$/;"	C
+id	src/utils/test/fixtures.ts	/^  id: 2,$/;"	C
+image	cypress/fixtures/article.json	/^      "image": "https:\/\/static.productionready.io\/images\/smiley-cyrus.jpg",$/;"	s	object:article.author
+image	cypress/fixtures/articles.json	/^        "image": "",$/;"	s	object:articles.2.author
+image	cypress/fixtures/articles.json	/^        "image": "https:\/\/64.media.tumblr.com\/57fbc054bf2fa0c6dd6c626f1741ec19\/tumblr_pbgjd1/;"	s	object:articles.1.author
+image	cypress/fixtures/articles.json	/^        "image": "https:\/\/static.productionready.io\/images\/smiley-cyrus.jpg",$/;"	s	object:articles.0.author
+image	cypress/fixtures/articles.json	/^        "image": "https:\/\/static.productionready.io\/images\/smiley-cyrus.jpg",$/;"	s	object:articles.3.author
+image	cypress/fixtures/articles.json	/^        "image": "https:\/\/static.productionready.io\/images\/smiley-cyrus.jpg",$/;"	s	object:articles.4.author
+image	cypress/fixtures/articles.json	/^        "image": "https:\/\/static.productionready.io\/images\/smiley-cyrus.jpg",$/;"	s	object:articles.5.author
+image	cypress/fixtures/articles.json	/^        "image": "https:\/\/static.productionready.io\/images\/smiley-cyrus.jpg",$/;"	s	object:articles.6.author
+image	cypress/fixtures/articles.json	/^        "image": "https:\/\/static.productionready.io\/images\/smiley-cyrus.jpg",$/;"	s	object:articles.7.author
+image	cypress/fixtures/articles.json	/^        "image": "https:\/\/static.productionready.io\/images\/smiley-cyrus.jpg",$/;"	s	object:articles.8.author
+image	cypress/fixtures/articles.json	/^        "image": "https:\/\/static.productionready.io\/images\/smiley-cyrus.jpg",$/;"	s	object:articles.9.author
+image	cypress/fixtures/articles_of_tag.json	/^        "image": "data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wCEAAkGBxMTEhUSEhIVFRU/;"	s	object:articles.2.author
+image	cypress/fixtures/articles_of_tag.json	/^        "image": "https:\/\/static.productionready.io\/images\/smiley-cyrus.jpg",$/;"	s	object:articles.0.author
+image	cypress/fixtures/articles_of_tag.json	/^        "image": "https:\/\/static.productionready.io\/images\/smiley-cyrus.jpg",$/;"	s	object:articles.1.author
+image	cypress/fixtures/articles_of_tag.json	/^        "image": "https:\/\/static.productionready.io\/images\/smiley-cyrus.jpg",$/;"	s	object:articles.3.author
+image	cypress/fixtures/articles_of_tag.json	/^        "image": "https:\/\/static.productionready.io\/images\/smiley-cyrus.jpg",$/;"	s	object:articles.4.author
+image	cypress/fixtures/articles_of_tag.json	/^        "image": "https:\/\/static.productionready.io\/images\/smiley-cyrus.jpg",$/;"	s	object:articles.5.author
+image	cypress/fixtures/articles_of_tag.json	/^        "image": "https:\/\/static.productionready.io\/images\/smiley-cyrus.jpg",$/;"	s	object:articles.6.author
+image	cypress/fixtures/articles_of_tag.json	/^        "image": "https:\/\/static.productionready.io\/images\/smiley-cyrus.jpg",$/;"	s	object:articles.7.author
+image	cypress/fixtures/articles_of_tag.json	/^        "image": "https:\/\/static.productionready.io\/images\/smiley-cyrus.jpg",$/;"	s	object:articles.8.author
+image	cypress/fixtures/profile.json	/^    "image": "https:\/\/static.productionready.io\/images\/smiley-cyrus.jpg",$/;"	s	object:profile
+image	cypress/fixtures/user.json	/^    "image": null,$/;"	z	object:user
+image	src/services/profile/putProfile.ts	/^  image?: string$/;"	p	interface:PutProfileForm
+image	src/types/user.d.ts	/^  image: string | undefined$/;"	p	interface:User
+image	src/types/user.d.ts	/^  image: string$/;"	p	interface:Profile
+image	src/utils/test/fixtures.ts	/^  image: '',$/;"	C
+include	tsconfig.json	/^  "include": [$/;"	a
+inputElement	src/components/ArticleDetailCommentsForm.spec.ts	/^    const inputElement = wrapper.find('textarea[aria-label="Write comment"]') as DOMWrapper<HTML/;"	C
+insane	package.json	/^    "insane": "^2.6.2",$/;"	s	object:dependencies
+isArticlesType	src/composable/useArticles.ts	/^export const isArticlesType = (type: any): type is ArticlesType => articlesTypes.includes(type)$/;"	C
+isAuthorized	src/store/user.ts	/^export const isAuthorized = getter('isAuthorized', () => checkAuthorization(user))$/;"	C
+isCheckable	src/utils/request.spec.ts	/^function isCheckable (method: CheckableMethod | Method): method is CheckableMethod {$/;"	f
+isCheckableSafe	src/utils/request.spec.ts	/^function isCheckableSafe (method: CheckableMethod): method is CheckableSafeMethod {$/;"	f
+isEither	src/utils/either.ts	/^export const isEither = <L, R>($/;"	C
+isFail	src/utils/either.ts	/^  isFail (): this is EitherConstructor<L, R, EitherType.Left> {$/;"	m	class:EitherConstructor
+isFavorited	src/composable/useFavoriteArticle.ts	/^  isFavorited: ComputedRef<boolean>$/;"	p	interface:useFavoriteArticleProps
+isOk	src/utils/either.ts	/^  isOk (): this is EitherConstructor<L, R, EitherType.Right> {$/;"	m	class:EitherConstructor
+isSafe	src/utils/request.spec.ts	/^function isSafe (method: Method): method is SafeMethod {$/;"	f
+items	src/components/ArticlesListNavigation.spec.ts	/^    const items = wrapper.findAll('.nav-item')$/;"	C
+jest	package.json	/^    "jest": "^26.6.3",$/;"	s	object:devDependencies
+jest	package.json	/^  "jest": {$/;"	o
+jsdom	package.json	/^    "jsdom": "^16.5.3",$/;"	s	object:devDependencies
+json	src/utils/test/mock-fetch.ts	/^  json: () => Promise<unknown>$/;"	p	interface:FetchResponseFull
+key	src/utils/storage.ts	/^  key: string$/;"	p	class:Storage
+license	package.json	/^  "license": "MIT",$/;"	s
+limit	src/services/article/getArticles.ts	/^  const params = { tag: tagName, limit, offset: (page - 1) * limit }$/;"	C	function:getArticlesByTag
+limit	src/services/index.ts	/^export const limit = 10$/;"	C
+linkElement	src/components/AppLink.spec.ts	/^    const linkElement = wrapper.get('a[aria-label=tag]')$/;"	C
+lint	package.json	/^    "lint": "concurrently 'yarn lint:tsc' 'yarn lint:script'",$/;"	s	object:scripts
+lint-staged	package.json	/^    "lint-staged": "^10.5.4",$/;"	s	object:devDependencies
+lint-staged	package.json	/^  "lint-staged": {$/;"	o
+lint:script	package.json	/^    "lint:script": "eslint \\"{src\/**\/*.{ts,vue},cypress\/**\/*.js}\\"",$/;"	s	object:scripts
+lint:tsc	package.json	/^    "lint:tsc": "vue-tsc --noEmit",$/;"	s	object:scripts
+list	src/utils/test/wrap-tests.ts	/^  list: Item[]$/;"	p	interface:WrapTestsProps
+localOptions	src/utils/request.spec.ts	/^    const localOptions = { headers: { h1: 'h11', h3: 'h3' } }$/;"	C
+localOptions	src/utils/request.spec.ts	/^    const localOptions = { params: { q1: 'q11', q3: 'q3' } }$/;"	C
+login	cypress/support/index.d.ts	/^    login(): void$/;"	m	interface:Cypress.Chainable
+mapAuthorizationResponse	src/utils/map-checkable-response.ts	/^export const mapAuthorizationResponse = <T>(result: Either<NetworkError, T>): Either<Authorizati/;"	C
+mapValidationResponse	src/utils/map-checkable-response.ts	/^export const mapValidationResponse = <E, T>(result: Either<NetworkError, T>): Either<ValidationE/;"	C
+markdown	src/utils/test/fixtures.ts	/^const markdown = '\\n# h1 Heading 8-)\\n## h2 Heading\\n### h3 Heading\\n#### h4 Heading\\n#####/;"	C
+markdownCN	src/utils/test/fixtures.ts	/^const markdownCN = '# Markdown 示例\\n\\n标签： Markdown\\n\\n---\\n\\n### 1. 斜体和粗体/;"	C
+markdownXss	src/utils/test/fixtures.ts	/^const markdownXss = '<script>alert("script injection")<\/script>\\n\\n<img src=1 onerror="alert(/;"	C
+marked	package.json	/^    "marked": "^2.0.6",$/;"	s	object:dependencies
+metaChanged	src/composable/useArticles.ts	/^  const { articlesType, tag, username, metaChanged } = getArticlesMeta()$/;"	C	function:useArticles
+mockDeleteComment	src/components/ArticleDetailComments.spec.ts	/^  const mockDeleteComment = deleteComment as jest.MockedFunction<typeof deleteComment>$/;"	C
+mockFavoriteArticle	src/components/ArticlesListArticlePreview.spec.ts	/^const mockFavoriteArticle = jest.fn()$/;"	C
+mockFetch	src/utils/test/mock-fetch.ts	/^export default function mockFetch (data: FetchResponseBody | FetchResponseFull): void {$/;"	f
+mockFetchArticles	src/components/ArticlesList.spec.ts	/^  const mockFetchArticles = getArticles as jest.MockedFunction<typeof getArticles>$/;"	C
+mockFetchTags	src/components/PopularTags.spec.ts	/^    const mockFetchTags = jest.fn()$/;"	C
+mockGetArticle	src/components/ArticleDetail.spec.ts	/^  const mockGetArticle = getArticle as jest.MockedFunction<typeof getArticle>$/;"	C
+mockGetCommentsByArticle	src/components/ArticleDetailComments.spec.ts	/^  const mockGetCommentsByArticle = getCommentsByArticle as jest.MockedFunction<typeof getComment/;"	C
+mockLocalStorage	src/utils/test/mock-local-storage.ts	/^export default function mockLocalStorage<T> (key: LocalStorageKey, data?: T, stringify = true): /;"	f
+mockPostComment	src/components/ArticleDetailCommentsForm.spec.ts	/^  const mockPostComment = postComment as jest.MockedFunction<typeof postComment>$/;"	C
+mockUseProfile	src/components/ArticleDetailCommentsForm.spec.ts	/^  const mockUseProfile = useProfile as jest.MockedFunction<typeof useProfile>$/;"	C
+mockUseTags	src/components/PopularTags.spec.ts	/^  const mockUseTags = useTags as jest.MockedFunction<typeof useTags>$/;"	C
+mocks	src/components/ArticleDetailMeta.spec.ts	/^  mocks: { $store: user },$/;"	C
+mocks	src/components/ArticlesListNavigation.spec.ts	/^    mocks: { $store: user },$/;"	C
+module	tsconfig.json	/^    "module": "ESNext",$/;"	s	object:compilerOptions
+moduleFileExtensions	package.json	/^    "moduleFileExtensions": [$/;"	a	object:jest
+modulePaths	package.json	/^    "modulePaths": [$/;"	a	object:jest
+mutation	src/store/user.ts	/^const { getter, mutation } = createStore<State>('user', STATE)$/;"	C
+name	package.json	/^  "name": "vue3-realworld-example-app",$/;"	s
+name	src/utils/test/wrap-tests.ts	/^      const name = testName !== undefined ? testName(item, index) : ''$/;"	C	function:wrapTests
+offset	src/services/article/getArticles.ts	/^  const params = { limit, offset: (page - 1) * limit }$/;"	C	function:getArticles
+offset	src/services/article/getArticles.ts	/^  const params = { limit, offset: (page - 1) * limit }$/;"	C	function:getFeeds
+offset	src/services/article/getArticles.ts	/^  const params = { limit, offset: (page - 1) * limit, author: username }$/;"	C	function:getProfileArticles
+offset	src/services/article/getArticles.ts	/^  const params = { limit, offset: (page - 1) * limit, favorited: username }$/;"	C	function:getFavoritedArticles
+offset	src/services/article/getArticles.ts	/^  const params = { tag: tagName, limit, offset: (page - 1) * limit }$/;"	C	function:getArticlesByTag
+ok	src/utils/test/mock-fetch.ts	/^  ok: boolean$/;"	p	interface:FetchResponseFull
+onUpdate	src/composable/useFavoriteArticle.ts	/^  onUpdate: (newArticle: Article) => void$/;"	p	interface:useFavoriteArticleProps
+onUpdate	src/composable/useFollowProfile.ts	/^  onUpdate: (profile: Profile) => void$/;"	p	interface:UseFollowProps
+only	src/utils/test/wrap-tests.ts	/^  only?: boolean$/;"	p	interface:WrapTestsProps
+options	src/utils/request.spec.ts	/^    const options = { headers: { h1: 'h1', h2: 'h2' } }$/;"	C
+options	src/utils/request.spec.ts	/^    const options = { params: { q1: 'q1', q2: 'q2' } }$/;"	C
+options	src/utils/request.ts	/^  private readonly options: FetchRequestOptions$/;"	p	class:FetchRequest
+page	src/composable/useArticles.ts	/^  const page = ref(1)$/;"	C	function:useArticles
+pageItems	src/components/AppPagination.spec.ts	/^    const pageItems = wrapper.findAll('.page-item')$/;"	C
+params	src/services/article/getArticles.ts	/^  const params = { limit, offset: (page - 1) * limit }$/;"	C	function:getArticles
+params	src/services/article/getArticles.ts	/^  const params = { limit, offset: (page - 1) * limit }$/;"	C	function:getFeeds
+params	src/services/article/getArticles.ts	/^  const params = { limit, offset: (page - 1) * limit, author: username }$/;"	C	function:getProfileArticles
+params	src/services/article/getArticles.ts	/^  const params = { limit, offset: (page - 1) * limit, favorited: username }$/;"	C	function:getFavoritedArticles
+params	src/services/article/getArticles.ts	/^  const params = { tag: tagName, limit, offset: (page - 1) * limit }$/;"	C	function:getArticlesByTag
+params	src/utils/request.ts	/^    const params = Object.assign({}, this.options.params, options.params ?? {})$/;"	C
+params	src/utils/request.ts	/^  params: Record<string, string | number | boolean>$/;"	p	interface:FetchRequestOptions
+params2query	src/utils/params-to-query.ts	/^export default function params2query (params: Record<string, string | number | boolean>): string/;"	f
+password	src/services/auth/postLogin.ts	/^  password: string$/;"	p	interface:PostLoginForm
+password	src/services/auth/postRegister.ts	/^  password: string$/;"	p	interface:PostRegisterForm
+password	src/services/profile/putProfile.ts	/^  password?: string$/;"	p	interface:PutProfileForm
+possibleArticlesType	src/composable/useArticles.ts	/^      const possibleArticlesType = routeNameToArticlesType[routeName as AppRouteNames]$/;"	C	function:getArticlesMeta
+postArticle	src/services/article/postArticle.ts	/^export function postArticle (form: PostArticleForm): Promise<Article> {$/;"	f
+postComment	src/services/comment/postComment.ts	/^export function postComment (slug: string, body: string): Promise<ArticleComment> {$/;"	f
+postFavoriteArticle	src/services/article/favoriteArticle.ts	/^export async function postFavoriteArticle (slug: string): Promise<Either<AuthorizationError, Art/;"	f
+postFollowProfile	src/services/profile/followProfile.ts	/^export async function postFollowProfile (username: string): Promise<Either<AuthorizationError, P/;"	f
+postLogin	src/services/auth/postLogin.ts	/^export async function postLogin (form: PostLoginForm): Promise<Either<ValidationError<PostLoginE/;"	f
+postRegister	src/services/auth/postRegister.ts	/^export async function postRegister (form: PostRegisterForm): Promise<Either<ValidationError<Post/;"	f
+pre-commit	package.json	/^      "pre-commit": "lint-staged",$/;"	s	object:husky.hooks
+pre-push	package.json	/^      "pre-push": "yarn lint"$/;"	s	object:husky.hooks
+prefix	src/utils/request.ts	/^    const prefix = options.prefix ?? this.options.prefix$/;"	C
+prefix	src/utils/request.ts	/^  prefix: string$/;"	p	interface:FetchRequestOptions
+preset	package.json	/^    "preset": "ts-jest",$/;"	s	object:jest
+profile	cypress/fixtures/profile.json	/^  "profile": {$/;"	o
+profile	src/composable/useProfile.ts	/^  const profile = ref<Profile | null>(null)$/;"	C	function:useProfile
+profile	src/types/response.d.ts	/^  profile: Profile$/;"	p	interface:ProfileResponse
+profileData	src/composable/useProfile.ts	/^    const profileData = await getProfile(username.value)$/;"	C	function:useProfile
+projectId	cypress.json	/^  "projectId": "j7s91r",$/;"	s
+promise	src/utils/create-async-process.spec.ts	/^    const promise = run()$/;"	C
+putArticle	src/services/article/postArticle.ts	/^export function putArticle (slug: string, form: PostArticleForm): Promise<Article> {$/;"	f
+putProfile	src/services/profile/putProfile.ts	/^export function putProfile (form: PutProfileForm): Promise<User> {$/;"	f
+registerGlobalComponents	src/plugins/global-components.ts	/^export default function registerGlobalComponents (app: App): void {$/;"	f
+remove	src/utils/storage.ts	/^  remove (): void {$/;"	m	class:Storage
+request	src/services/index.ts	/^export const request = new FetchRequest({$/;"	C
+request	src/utils/request.spec.ts	/^    const request = new FetchRequest()$/;"	C
+request	src/utils/request.spec.ts	/^    const request = new FetchRequest(OPTIONS)$/;"	C
+request	src/utils/request.spec.ts	/^    const request = new FetchRequest(options)$/;"	C
+request	src/utils/request.spec.ts	/^    const request = new FetchRequest({ params: PARAMS })$/;"	C
+request	src/utils/request.spec.ts	/^    const request = new FetchRequest({ prefix: PREFIX })$/;"	C
+request	src/utils/request.spec.ts	/^  const request = new FetchRequest()$/;"	C
+response	src/composable/useArticles.ts	/^      const response = await responsePromise$/;"	C	function:useArticles
+response	src/types/error.ts	/^  response: Response$/;"	p	class:CustomNetworkError
+response	src/utils/map-checkable-response.spec.ts	/^    const response = createCheckableResponse(RESPONSE)$/;"	C
+result	src/utils/create-async-process.spec.ts	/^    const result = await run(null)$/;"	C
+result	src/utils/create-async-process.ts	/^    const result = await fn(...args)$/;"	C	function:createAsyncProcess
+result	src/utils/filters.spec.ts	/^    const result = dateFilter(dateString)$/;"	C
+result	src/utils/map-checkable-response.spec.ts	/^    const result = mapAuthorizationResponse<Partial<Response>>(response)$/;"	C
+result	src/utils/map-checkable-response.spec.ts	/^    const result = mapValidationResponse<ValidationErrors, Partial<Response>>(response)$/;"	C
+result	src/utils/request.spec.ts	/^  const result = await triggerMethod(request, method)$/;"	C
+result	src/utils/request.spec.ts	/^  const result = await triggerMethod<DATA_TYPE>(request, method)$/;"	C
+result	src/utils/request.spec.ts	/^  const result = triggerMethod(request, method)$/;"	C
+result	src/utils/storage.spec.ts	/^        const result = storage.get()$/;"	C
+result	src/utils/storage.spec.ts	/^      const result = storage.get()$/;"	C
+result1	src/services/article/favoriteArticle.ts	/^  const result1 = await request.checkableDelete<ArticleResponse>(`\/articles\/${slug}\/favorite`/;"	C	function:deleteFavoriteArticle
+result1	src/services/article/favoriteArticle.ts	/^  const result1 = await request.checkablePost<ArticleResponse>(`\/articles\/${slug}\/favorite`)$/;"	C	function:postFavoriteArticle
+result1	src/services/auth/postLogin.ts	/^  const result1 = await request.checkablePost<UserResponse>('\/users\/login', { user: form })$/;"	C	function:postLogin
+result1	src/services/auth/postRegister.ts	/^  const result1 = await request.checkablePost<UserResponse>('\/users', { user: form })$/;"	C	function:postRegister
+result1	src/services/profile/followProfile.ts	/^  const result1 = await request.checkableDelete<ProfileResponse>(`\/profiles\/${username}\/follo/;"	C	function:deleteFollowProfile
+result1	src/services/profile/followProfile.ts	/^  const result1 = await request.checkablePost<ProfileResponse>(`\/profiles\/${username}\/follow`/;"	C	function:postFollowProfile
+result2	src/services/article/favoriteArticle.ts	/^  const result2 = mapAuthorizationResponse<ArticleResponse>(result1)$/;"	C	function:deleteFavoriteArticle
+result2	src/services/article/favoriteArticle.ts	/^  const result2 = mapAuthorizationResponse<ArticleResponse>(result1)$/;"	C	function:postFavoriteArticle
+result2	src/services/auth/postLogin.ts	/^  const result2 = mapValidationResponse<PostLoginErrors, UserResponse>(result1)$/;"	C	function:postLogin
+result2	src/services/auth/postRegister.ts	/^  const result2 = mapValidationResponse<PostRegisterErrors, UserResponse>(result1)$/;"	C	function:postRegister
+result2	src/services/profile/followProfile.ts	/^  const result2 = mapAuthorizationResponse<ProfileResponse>(result1)$/;"	C	function:deleteFollowProfile
+result2	src/services/profile/followProfile.ts	/^  const result2 = mapAuthorizationResponse<ProfileResponse>(result1)$/;"	C	function:postFollowProfile
+resultIsEither	src/utils/request.spec.ts	/^  const resultIsEither = isEither<NetworkError, unknown>(result)$/;"	C
+resultIsEither	src/utils/request.spec.ts	/^  const resultIsEither = isEither<unknown, DATA_TYPE>(result)$/;"	C
+resultIsNotOk	src/utils/request.spec.ts	/^  const resultIsNotOk = isEither<NetworkError, unknown>(result) && result.isFail()$/;"	C
+resultIsOk	src/utils/request.spec.ts	/^  const resultIsOk = isEither<unknown, DATA_TYPE>(result) && result.isOk()$/;"	C
+resultValue	src/utils/request.spec.ts	/^  const resultValue = isEither<NetworkError, unknown>(result) && result.isFail() ? result.value /;"	C
+resultValue	src/utils/request.spec.ts	/^  const resultValue = isEither<unknown, DATA_TYPE>(result) && result.isOk() ? result.value : nul/;"	C
+rollup-plugin-analyzer	package.json	/^    "rollup-plugin-analyzer": "^4.0.0",$/;"	s	object:devDependencies
+route	src/composable/useArticles.ts	/^  const route = useRoute()$/;"	C	function:getArticlesMeta
+routeName	src/composable/useArticles.ts	/^      const possibleArticlesType = routeNameToArticlesType[routeName as AppRouteNames]$/;"	C	function:getArticlesMeta
+routeNameToArticlesType	src/composable/useArticles.ts	/^const routeNameToArticlesType: Partial<Record<AppRouteNames, ArticlesType>> = ({$/;"	C
+router	src/components/ArticleDetailMeta.spec.ts	/^  plugins: [registerGlobalComponents, router],$/;"	C
+router	src/components/ArticlesList.spec.ts	/^    plugins: [registerGlobalComponents, router],$/;"	C
+router	src/components/ArticlesListNavigation.spec.ts	/^    plugins: [registerGlobalComponents, router],$/;"	C
+router	src/router.ts	/^export const router = createRouter({$/;"	C
+run	src/composable/useArticles.ts	/^  const { active: articlesDownloading, run: runWrappedFetchArticles } = createAsyncProcess(fetch/;"	C	function:useArticles
+run	src/composable/useFollowProfile.ts	/^  const { active, run } = createAsyncProcess(toggleFollow)$/;"	C	function:useFollow
+run	src/utils/create-async-process.spec.ts	/^    const { active, run } = createAsyncProcess(someProcess)$/;"	C
+run	src/utils/create-async-process.spec.ts	/^    const { run } = createAsyncProcess(someProcess)$/;"	C
+run	src/utils/create-async-process.ts	/^  const run: CreateAsyncProcessReturn<T>['run'] = async (...args) => {$/;"	C	function:createAsyncProcess
+run	src/utils/create-async-process.ts	/^  run: (...args: Parameters<T>) => Promise<ReturnType<T>>$/;"	p	interface:CreateAsyncProcessReturn
+scripts	package.json	/^  "scripts": {$/;"	o
+serve	package.json	/^    "serve": "vite preview",$/;"	s	object:scripts
+set	src/utils/storage.ts	/^  set (value: T): void {$/;"	m	class:Storage
+setupFilesAfterEnv	package.json	/^    "setupFilesAfterEnv": [$/;"	a	object:jest
+slug	cypress/fixtures/article.json	/^    "slug": "article-title",$/;"	s	object:article
+slug	cypress/fixtures/articles.json	/^      "slug": "1234567qa-6xcwvb",$/;"	s	object:articles.9
+slug	cypress/fixtures/articles.json	/^      "slug": "6969-bc71bu",$/;"	s	object:articles.2
+slug	cypress/fixtures/articles.json	/^      "slug": "aaaaaaaaaassssssss-344qc2",$/;"	s	object:articles.0
+slug	cypress/fixtures/articles.json	/^      "slug": "bts-army-xcs21l",$/;"	s	object:articles.1
+slug	cypress/fixtures/articles.json	/^      "slug": "minim-doloribus-opti-po2w7g",$/;"	s	object:articles.5
+slug	cypress/fixtures/articles.json	/^      "slug": "this-is-a-title-9e9k35",$/;"	s	object:articles.4
+slug	cypress/fixtures/articles.json	/^      "slug": "this-is-a-title-fd8luz",$/;"	s	object:articles.8
+slug	cypress/fixtures/articles.json	/^      "slug": "this-is-a-title-l74nrw",$/;"	s	object:articles.7
+slug	cypress/fixtures/articles.json	/^      "slug": "this-is-a-title-q6gg23",$/;"	s	object:articles.3
+slug	cypress/fixtures/articles.json	/^      "slug": "tyui-qi9qdw",$/;"	s	object:articles.6
+slug	cypress/fixtures/articles_of_tag.json	/^      "slug": "mamad-m-gay-123456789123456789-ot7z2z",$/;"	s	object:articles.1
+slug	cypress/fixtures/articles_of_tag.json	/^      "slug": "mamadi-peston-tala-qinxzs",$/;"	s	object:articles.0
+slug	cypress/fixtures/articles_of_tag.json	/^      "slug": "sag-1qr2bf",$/;"	s	object:articles.4
+slug	cypress/fixtures/articles_of_tag.json	/^      "slug": "sag-1v1pw",$/;"	s	object:articles.6
+slug	cypress/fixtures/articles_of_tag.json	/^      "slug": "sag-7t075r",$/;"	s	object:articles.3
+slug	cypress/fixtures/articles_of_tag.json	/^      "slug": "sag-d13374",$/;"	s	object:articles.5
+slug	cypress/fixtures/articles_of_tag.json	/^      "slug": "sag-qhqhcj",$/;"	s	object:articles.7
+slug	cypress/fixtures/articles_of_tag.json	/^      "slug": "sag-sn8t0c",$/;"	s	object:articles.8
+slug	cypress/fixtures/articles_of_tag.json	/^      "slug": "sharing-my-project-obunz2",$/;"	s	object:articles.2
+slug	src/types/article.d.ts	/^  slug: string$/;"	p	interface:Article
+someProcess	src/utils/create-async-process.spec.ts	/^    const someProcess = jest.fn().mockImplementation(a => Promise.resolve({ a, b: null }))$/;"	C
+someProcess	src/utils/create-async-process.spec.ts	/^  const someProcess = (): Promise<null> => Promise.resolve(null)$/;"	C
+src/**/*.{ts,vue}	package.json	/^    "src\/**\/*.{ts,vue}": "eslint --fix",$/;"	s	object:lint-staged
+status	src/utils/map-checkable-response.spec.ts	/^    const RESPONSE = { ok: false, status: 400 }$/;"	C
+status	src/utils/map-checkable-response.spec.ts	/^    const RESPONSE = { ok: false, status: 401 }$/;"	C
+status	src/utils/map-checkable-response.spec.ts	/^    const RESPONSE = { ok: false, status: 422, json: () => Promise.resolve({ errors: { foo: 'bar/;"	C
+status	src/utils/test/mock-fetch.ts	/^  status: number$/;"	p	interface:FetchResponseFull
+statusText	src/utils/test/mock-fetch.ts	/^  statusText: string$/;"	p	interface:FetchResponseFull
+storage	src/utils/storage.spec.ts	/^  const storage = new Storage<typeof DATA>(KEY)$/;"	C
+storageType	src/utils/storage.ts	/^  storageType: StorageType$/;"	p	class:Storage
+strValue	src/utils/storage.ts	/^    const strValue = JSON.stringify(value)$/;"	C	method:Storage.set
+success	src/utils/either.ts	/^  static success<L, T> (v: T): Either<L, T> {$/;"	m	class:EitherConstructor
+success	src/utils/either.ts	/^export const { fail, success } = EitherConstructor$/;"	C
+tag	src/composable/useArticles.ts	/^  const tag = ref('')$/;"	C	function:getArticlesMeta
+tag	src/composable/useArticles.ts	/^  const { articlesType, tag, username, metaChanged } = getArticlesMeta()$/;"	C	function:useArticles
+tagList	cypress/fixtures/article.json	/^    "tagList": [],$/;"	a	object:article
+tagList	cypress/fixtures/articles.json	/^      "tagList": [$/;"	a	object:articles.1
+tagList	cypress/fixtures/articles.json	/^      "tagList": [$/;"	a	object:articles.6
+tagList	cypress/fixtures/articles.json	/^      "tagList": [],$/;"	a	object:articles.0
+tagList	cypress/fixtures/articles.json	/^      "tagList": [],$/;"	a	object:articles.2
+tagList	cypress/fixtures/articles.json	/^      "tagList": [],$/;"	a	object:articles.3
+tagList	cypress/fixtures/articles.json	/^      "tagList": [],$/;"	a	object:articles.4
+tagList	cypress/fixtures/articles.json	/^      "tagList": [],$/;"	a	object:articles.5
+tagList	cypress/fixtures/articles.json	/^      "tagList": [],$/;"	a	object:articles.7
+tagList	cypress/fixtures/articles.json	/^      "tagList": [],$/;"	a	object:articles.8
+tagList	cypress/fixtures/articles.json	/^      "tagList": [],$/;"	a	object:articles.9
+tagList	cypress/fixtures/articles_of_tag.json	/^      "tagList": [$/;"	a	object:articles.0
+tagList	cypress/fixtures/articles_of_tag.json	/^      "tagList": [$/;"	a	object:articles.1
+tagList	cypress/fixtures/articles_of_tag.json	/^      "tagList": [$/;"	a	object:articles.2
+tagList	cypress/fixtures/articles_of_tag.json	/^      "tagList": [$/;"	a	object:articles.3
+tagList	cypress/fixtures/articles_of_tag.json	/^      "tagList": [$/;"	a	object:articles.4
+tagList	cypress/fixtures/articles_of_tag.json	/^      "tagList": [$/;"	a	object:articles.5
+tagList	cypress/fixtures/articles_of_tag.json	/^      "tagList": [$/;"	a	object:articles.6
+tagList	cypress/fixtures/articles_of_tag.json	/^      "tagList": [$/;"	a	object:articles.7
+tagList	cypress/fixtures/articles_of_tag.json	/^      "tagList": [$/;"	a	object:articles.8
+tagList	src/services/article/postArticle.ts	/^  tagList: string[]$/;"	p	interface:PostArticleForm
+tagList	src/types/article.d.ts	/^  tagList: string[]$/;"	p	interface:Article
+tagList	src/utils/test/fixtures.ts	/^  tagList: ['foo'],$/;"	C
+tags	cypress/fixtures/tags.json	/^  "tags": [$/;"	a
+tags	src/composable/useTags.ts	/^  const tags = ref<string[]>([])$/;"	C	function:useTags
+tags	src/types/response.d.ts	/^  tags: string[]$/;"	p	interface:TagsResponse
+task	src/utils/test/wrap-tests.ts	/^  task: string$/;"	p	interface:WrapTestsProps
+test	package.json	/^    "test": "yarn test:unit && yarn test:e2e"$/;"	s	object:scripts
+test:e2e	package.json	/^    "test:e2e": "yarn build && concurrently -k \\"yarn serve\\" \\"cypress run -c baseUrl=http:\//;"	s	object:scripts
+test:e2e:ci	package.json	/^    "test:e2e:ci": "cypress run -C cypress.prod.json",$/;"	s	object:scripts
+test:unit	package.json	/^    "test:unit": "jest --coverage",$/;"	s	object:scripts
+testEnvironment	package.json	/^    "testEnvironment": "jsdom",$/;"	s	object:jest
+testMatch	package.json	/^    "testMatch": [$/;"	a	object:jest
+testName	src/utils/test/wrap-tests.ts	/^  testName?: (item: Item, index: number) => string$/;"	p	interface:WrapTestsProps
+title	cypress/fixtures/article.json	/^    "title": "Article title",$/;"	s	object:article
+title	cypress/fixtures/articles.json	/^      "title": "1234567QA",$/;"	s	object:articles.9
+title	cypress/fixtures/articles.json	/^      "title": "6969",$/;"	s	object:articles.2
+title	cypress/fixtures/articles.json	/^      "title": "BTS Army",$/;"	s	object:articles.1
+title	cypress/fixtures/articles.json	/^      "title": "Minim doloribus opti",$/;"	s	object:articles.5
+title	cypress/fixtures/articles.json	/^      "title": "This is a title",$/;"	s	object:articles.3
+title	cypress/fixtures/articles.json	/^      "title": "This is a title",$/;"	s	object:articles.4
+title	cypress/fixtures/articles.json	/^      "title": "This is a title",$/;"	s	object:articles.7
+title	cypress/fixtures/articles.json	/^      "title": "This is a title",$/;"	s	object:articles.8
+title	cypress/fixtures/articles.json	/^      "title": "abc123",$/;"	s	object:articles.0
+title	cypress/fixtures/articles.json	/^      "title": "tyui",$/;"	s	object:articles.6
+title	cypress/fixtures/articles_of_tag.json	/^      "title": "Sharing My Project",$/;"	s	object:articles.2
+title	cypress/fixtures/articles_of_tag.json	/^      "title": "mamad m gay 123456789123456789",$/;"	s	object:articles.1
+title	cypress/fixtures/articles_of_tag.json	/^      "title": "mamadi peston tala",$/;"	s	object:articles.0
+title	cypress/fixtures/articles_of_tag.json	/^      "title": "sag",$/;"	s	object:articles.3
+title	cypress/fixtures/articles_of_tag.json	/^      "title": "sag",$/;"	s	object:articles.4
+title	cypress/fixtures/articles_of_tag.json	/^      "title": "sag",$/;"	s	object:articles.5
+title	cypress/fixtures/articles_of_tag.json	/^      "title": "sag",$/;"	s	object:articles.6
+title	cypress/fixtures/articles_of_tag.json	/^      "title": "sag",$/;"	s	object:articles.7
+title	cypress/fixtures/articles_of_tag.json	/^      "title": "sag",$/;"	s	object:articles.8
+title	src/services/article/postArticle.ts	/^  title: string$/;"	p	interface:PostArticleForm
+title	src/types/article.d.ts	/^  title: string$/;"	p	interface:Article
+token	cypress/fixtures/user.json	/^    "token": "fake_token"$/;"	s	object:user
+token	src/plugins/set-authorization-token.ts	/^  const token = userStorage.get()?.token$/;"	C
+token	src/types/user.d.ts	/^  token: string$/;"	p	interface:User
+transform	package.json	/^    "transform": {$/;"	o	object:jest
+triggerMethod	src/utils/request.spec.ts	/^async function triggerMethod<T = unknown> (request: FetchRequest, method: Method | CheckableMeth/;"	f
+ts-jest	package.json	/^      "ts-jest": {}$/;"	o	object:jest.globals
+ts-jest	package.json	/^    "ts-jest": "^26.5.5",$/;"	s	object:devDependencies
+type	src/utils/either.ts	/^    private readonly type: T,$/;"	p	class:EitherConstructor
+type	src/utils/test/mock-fetch.ts	/^  const { type, ...body } = data$/;"	C	function:mockFetch
+type	src/utils/test/mock-fetch.ts	/^  type: 'body'$/;"	p	interface:FetchResponseBody
+type	src/utils/test/mock-fetch.ts	/^  type: 'full'$/;"	p	interface:FetchResponseFull
+typescript	package.json	/^    "typescript": "^4.2.4",$/;"	s	object:devDependencies
+updateArticle	src/composable/useArticles.ts	/^  const updateArticle = (index: number, article: Article): void => {$/;"	C	function:useArticles
+updateUser	src/store/user.ts	/^export const updateUser = mutation<User | null>('updateUser', (state, userData) => {$/;"	C
+updatedAt	cypress/fixtures/article.json	/^    "updatedAt": "2020-11-01T14:59:39.404Z",$/;"	s	object:article
+updatedAt	cypress/fixtures/articles.json	/^      "updatedAt": "2020-10-26T12:03:27.571Z",$/;"	s	object:articles.9
+updatedAt	cypress/fixtures/articles.json	/^      "updatedAt": "2020-10-26T12:07:43.563Z",$/;"	s	object:articles.8
+updatedAt	cypress/fixtures/articles.json	/^      "updatedAt": "2020-10-26T12:09:58.427Z",$/;"	s	object:articles.7
+updatedAt	cypress/fixtures/articles.json	/^      "updatedAt": "2020-10-26T12:12:07.490Z",$/;"	s	object:articles.6
+updatedAt	cypress/fixtures/articles.json	/^      "updatedAt": "2020-10-26T12:12:27.127Z",$/;"	s	object:articles.5
+updatedAt	cypress/fixtures/articles.json	/^      "updatedAt": "2020-10-26T12:24:01.290Z",$/;"	s	object:articles.4
+updatedAt	cypress/fixtures/articles.json	/^      "updatedAt": "2020-10-26T12:26:29.750Z",$/;"	s	object:articles.3
+updatedAt	cypress/fixtures/articles.json	/^      "updatedAt": "2020-10-26T12:28:46.374Z",$/;"	s	object:articles.2
+updatedAt	cypress/fixtures/articles.json	/^      "updatedAt": "2020-10-26T12:56:11.674Z",$/;"	s	object:articles.1
+updatedAt	cypress/fixtures/articles.json	/^      "updatedAt": "2020-10-26T12:56:58.876Z",$/;"	s	object:articles.0
+updatedAt	cypress/fixtures/articles_of_tag.json	/^      "updatedAt": "2020-10-26T07:10:47.908Z",$/;"	s	object:articles.8
+updatedAt	cypress/fixtures/articles_of_tag.json	/^      "updatedAt": "2020-10-26T07:10:48.930Z",$/;"	s	object:articles.7
+updatedAt	cypress/fixtures/articles_of_tag.json	/^      "updatedAt": "2020-10-26T07:10:48.982Z",$/;"	s	object:articles.6
+updatedAt	cypress/fixtures/articles_of_tag.json	/^      "updatedAt": "2020-10-26T07:10:49.227Z",$/;"	s	object:articles.5
+updatedAt	cypress/fixtures/articles_of_tag.json	/^      "updatedAt": "2020-10-26T07:10:49.571Z",$/;"	s	object:articles.4
+updatedAt	cypress/fixtures/articles_of_tag.json	/^      "updatedAt": "2020-10-26T07:10:58.316Z",$/;"	s	object:articles.3
+updatedAt	cypress/fixtures/articles_of_tag.json	/^      "updatedAt": "2020-10-26T10:59:12.359Z",$/;"	s	object:articles.2
+updatedAt	cypress/fixtures/articles_of_tag.json	/^      "updatedAt": "2020-10-26T11:18:40.542Z",$/;"	s	object:articles.1
+updatedAt	cypress/fixtures/articles_of_tag.json	/^      "updatedAt": "2020-10-27T07:59:35.714Z",$/;"	s	object:articles.0
+updatedAt	cypress/fixtures/user.json	/^    "updatedAt": "2020-10-20T15:02:49.629Z",$/;"	s	object:user
+updatedAt	src/types/article.d.ts	/^  updatedAt: string$/;"	p	interface:Article
+updatedAt	src/types/comment.d.ts	/^  updatedAt: string$/;"	p	interface:ArticleComment
+useArticles	src/composable/useArticles.ts	/^export function useArticles () {$/;"	f
+useFavoriteArticle	src/composable/useFavoriteArticle.ts	/^export const useFavoriteArticle = ({ isFavorited, articleSlug, onUpdate }: useFavoriteArticlePro/;"	C
+useFavoriteArticleProps	src/composable/useFavoriteArticle.ts	/^interface useFavoriteArticleProps {$/;"	i
+useFollow	src/composable/useFollowProfile.ts	/^export function useFollow ({ username, following, onUpdate }: UseFollowProps) {$/;"	f
+useProfile	src/composable/useProfile.ts	/^export function useProfile ({ username }: UseProfileProps) {$/;"	f
+useTags	src/composable/useTags.ts	/^export function useTags () {$/;"	f
+user	cypress/fixtures/user.json	/^  "user": {$/;"	o
+user	src/store/user.ts	/^  user: User | null$/;"	p	interface:State
+user	src/store/user.ts	/^export const user = getter('user', state => state.user)$/;"	C
+user	src/types/response.d.ts	/^  user: User$/;"	p	interface:UserResponse
+user	src/utils/test/fixtures.ts	/^const user: User = {$/;"	C
+userStorage	src/store/user.ts	/^export const userStorage = new Storage<User>('user')$/;"	C
+username	cypress/fixtures/article.json	/^      "username": "plumrx",$/;"	s	object:article.author
+username	cypress/fixtures/articles.json	/^        "username": "Antonette74",$/;"	s	object:articles.9.author
+username	cypress/fixtures/articles.json	/^        "username": "Bettie72",$/;"	s	object:articles.5.author
+username	cypress/fixtures/articles.json	/^        "username": "abdulhanjra",$/;"	s	object:articles.1.author
+username	cypress/fixtures/articles.json	/^        "username": "daria",$/;"	s	object:articles.2.author
+username	cypress/fixtures/articles.json	/^        "username": "josemmg87",$/;"	s	object:articles.3.author
+username	cypress/fixtures/articles.json	/^        "username": "josemmg87",$/;"	s	object:articles.4.author
+username	cypress/fixtures/articles.json	/^        "username": "josemmg87",$/;"	s	object:articles.7.author
+username	cypress/fixtures/articles.json	/^        "username": "josemmg87",$/;"	s	object:articles.8.author
+username	cypress/fixtures/articles.json	/^        "username": "maili",$/;"	s	object:articles.0.author
+username	cypress/fixtures/articles.json	/^        "username": "vasiliy12",$/;"	s	object:articles.6.author
+username	cypress/fixtures/articles_of_tag.json	/^        "username": "Phuong Anh Dao",$/;"	s	object:articles.2.author
+username	cypress/fixtures/articles_of_tag.json	/^        "username": "sagsagsag",$/;"	s	object:articles.1.author
+username	cypress/fixtures/articles_of_tag.json	/^        "username": "sagsagsag",$/;"	s	object:articles.3.author
+username	cypress/fixtures/articles_of_tag.json	/^        "username": "sagsagsag",$/;"	s	object:articles.4.author
+username	cypress/fixtures/articles_of_tag.json	/^        "username": "sagsagsag",$/;"	s	object:articles.5.author
+username	cypress/fixtures/articles_of_tag.json	/^        "username": "sagsagsag",$/;"	s	object:articles.6.author
+username	cypress/fixtures/articles_of_tag.json	/^        "username": "sagsagsag",$/;"	s	object:articles.7.author
+username	cypress/fixtures/articles_of_tag.json	/^        "username": "sagsagsag",$/;"	s	object:articles.8.author
+username	cypress/fixtures/articles_of_tag.json	/^        "username": "zzzazzzzzzz",$/;"	s	object:articles.0.author
+username	cypress/fixtures/profile.json	/^    "username": "ma0dong",$/;"	s	object:profile
+username	cypress/fixtures/user.json	/^    "username": "plumrx",$/;"	s	object:user
+username	src/composable/useArticles.ts	/^  const username = ref('')$/;"	C	function:getArticlesMeta
+username	src/composable/useArticles.ts	/^  const { articlesType, tag, username, metaChanged } = getArticlesMeta()$/;"	C	function:useArticles
+username	src/composable/useFollowProfile.ts	/^  username: ComputedRef<string>$/;"	p	interface:UseFollowProps
+username	src/composable/useProfile.ts	/^  username: ComputedRef<string>$/;"	p	interface:UseProfileProps
+username	src/services/auth/postRegister.ts	/^  username: string$/;"	p	interface:PostRegisterForm
+username	src/services/profile/putProfile.ts	/^  username?: string$/;"	p	interface:PutProfileForm
+username	src/types/user.d.ts	/^  username: string$/;"	p	interface:Profile
+username	src/types/user.d.ts	/^  username: string$/;"	p	interface:User
+value	src/utils/either.ts	/^    public readonly value: T extends EitherType.Left ? L : R,$/;"	p	class:EitherConstructor
+value	src/utils/storage.ts	/^      const value = window[this.storageType].getItem(this.key) ?? ''$/;"	C	method:Storage.get
+version	package.json	/^  "version": "1.1.0",$/;"	s
+vite	package.json	/^    "vite": "^2.2.1",$/;"	s	object:devDependencies
+vue	package.json	/^    "vue": "^3.0.11",$/;"	s	object:dependencies
+vue-jest	package.json	/^    "vue-jest": "^5.0.0-alpha.8",$/;"	s	object:devDependencies
+vue-router	package.json	/^    "vue-router": "^4.0.8"$/;"	s	object:dependencies
+vue-tsc	package.json	/^    "vue-tsc": "^0.0.25"$/;"	s	object:devDependencies
+wrapTests	src/utils/test/wrap-tests.ts	/^function wrapTests<Item> ({ task, list, fn, testName, only = false }: WrapTestsProps<Item>): voi/;"	f
+wrapper	src/components/AppFooter.spec.ts	/^    const wrapper = mount(AppFooter, {$/;"	C
+wrapper	src/components/AppLink.spec.ts	/^    const wrapper = mount(AppLink, {$/;"	C
+wrapper	src/components/AppNavigation.spec.ts	/^    const wrapper = mount(AppNavigation, {$/;"	C
+wrapper	src/components/AppPagination.spec.ts	/^    const wrapper = shallowMount(AppPagination, {$/;"	C
+wrapper	src/components/ArticleDetail.spec.ts	/^    const wrapper = mount(asyncComponentWrapper(ArticleDetail), {$/;"	C
+wrapper	src/components/ArticleDetailComment.spec.ts	/^    const wrapper = shallowMount(ArticleDetailComment, {$/;"	C
+wrapper	src/components/ArticleDetailComments.spec.ts	/^    const wrapper = mount(asyncComponentWrapper(ArticleDetailComments), {$/;"	C
+wrapper	src/components/ArticleDetailCommentsForm.spec.ts	/^    const wrapper = shallowMount(ArticleDetailCommentsForm, {$/;"	C
+wrapper	src/components/ArticlesList.spec.ts	/^    const wrapper = mount(asyncComponentWrapper(ArticlesList), {$/;"	C
+wrapper	src/components/ArticlesListArticlePreview.spec.ts	/^    const wrapper = mount(ArticlesListArticlePreview, {$/;"	C
+wrapper	src/components/ArticlesListNavigation.spec.ts	/^    const wrapper = mount(ArticlesListNavigation, {$/;"	C
+wrapper	src/components/PopularTags.spec.ts	/^    const wrapper = mount(asyncComponentWrapper(PopularTags), {$/;"	C
+wrapper	src/pages/Article.spec.ts	/^    const wrapper = mount(Article, {$/;"	C

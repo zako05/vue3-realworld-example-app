@@ -10,7 +10,8 @@
     "lint:tsc": "vue-tsc --noEmit",
     "lint": "concurrently 'yarn lint:tsc' 'yarn lint:script'",
     "cypress": "cypress open",
-    "test": "cypress run"
+    "test": "cypress run",
+    "test:ui": "yarn build && concurrently -k \"serve dist\" \"cypress run -c baseUrl=http://localhost:5000\""
   },
   "dependencies": {
     "@harlem/core": "^1.3.1",

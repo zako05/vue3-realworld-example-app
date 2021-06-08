@@ -1,12 +1,23 @@
-node_modules
-.DS_Store
-dist
+# misc
 *.local
-.idea
 *.iml
-cypress/videos
-cypress/screenshots
-coverage
+.idea
 .vscode
-yarn-error.log
 .husky
+.DS_Store
+.*.sw*
+*tags
+
+# testing
+coverage
+
+cypress/screenshots
+cypress/videos
+
+# dependencies
+node_modules
+dist
+
+# logs
+yarn-debug.log*
+yarn-error.log*

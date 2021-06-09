@@ -8,12 +8,15 @@
 // https://on.cypress.io/custom-commands
 // ***********************************************
 
-import { ROUTES } from '../constants'
+import { ROUTES } from '../../constants'
 
 Cypress.Commands.add('login', (username = 'plumrx') => {
   cy.fixture('user.json').then(authResponse => {
     authResponse.user.username = username
-    cy.intercept('POST', /users\/login$/, { statusCode: 200, body: authResponse })
+    cy.intercept('POST', /users\/login$/, {
+      statusCode: 200,
+      body: authResponse
+    })
   })
 
   // click sign in button in home page

@@ -1,9 +1,0 @@
-{
-  "projectId": "ht7gah",
-  "baseUrl": "http://localhost:3000",
-  "integrationFolder": "cypress/specs",
-  "supportFile": "cypress/support/commands/index.js",
-  "env": {
-    "apiUrl": "https://conduit.productionready.io/api"
-  }
-}

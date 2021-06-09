@@ -3,11 +3,11 @@ import {
   newArticle,
   deleteArticle,
   validateArticle,
-  validateArticleError
+  validateArticleError,
 } from '../page-actions/article.page.js'
 import {
   navigate as navigateLogin,
-  loginWith
+  loginWith,
 } from '../page-actions/login.page.js'
 import { createUser } from '../support/faker-generator.js'
 
@@ -17,7 +17,7 @@ describe('Article', () => {
   before(() => {
     // create new user
     user = {
-      ...createUser()
+      ...createUser(),
     }
     cy.createUser(user)
   })
@@ -26,37 +26,37 @@ describe('Article', () => {
     // load data from fixtures
     cy.fixture('article.json').as('article')
     cy.loginUser(user.email, user.password).as('userToken')
-    cy.get('@article').then(article => {
-      cy.get('@userToken').then(userToken => {
+    cy.get('@article').then((article) => {
+      cy.get('@userToken').then((userToken) => {
         // create article for currently logged in user
         cy.createArticle(
           userToken,
           article.article2.title,
           article.article2.about,
-          article.article2.body
+          article.article2.body,
         ).as('articleCreated')
       })
     })
     // spy on login request
     cy.intercept({
       method: 'POST',
-      url: '/api/users/login'
+      url: '/api/users/login',
     }).as('getLogin')
     // spy on articles request
     cy.intercept({
       method: 'POST',
-      url: '/api/articles'
+      url: '/api/articles',
     }).as('getArticles')
     // spy on "existing article" request
-    cy.get('@articleCreated').then(articleCreated => {
+    cy.get('@articleCreated').then((articleCreated) => {
       cy.intercept({
         method: 'DELETE',
-        url: `/api/articles/${articleCreated.body.article.slug}`
+        url: `/api/articles/${articleCreated.body.article.slug}`,
       }).as('deleteArticle')
     })
     cy.intercept({
       method: 'GET',
-      url: `/api/profiles/${user.username}`
+      url: `/api/profiles/${user.username}`,
     }).as('getUserProfile')
     // login with user created in 'before' hook
     navigateLogin()
@@ -66,15 +66,15 @@ describe('Article', () => {
   it('create succeeded', () => {
     openArticlePage()
     // load data from fixture
-    cy.get('@article').then(article => {
+    cy.get('@article').then((article) => {
       // submit new article
       newArticle(
         article.article1.title,
         article.article1.about,
-        article.article1.body
+        article.article1.body,
       )
     })
-    cy.get('@article').then(article => {
+    cy.get('@article').then((article) => {
       validateArticle('@getArticles', 200, article.article1.title)
     })
   })
@@ -86,11 +86,11 @@ describe('Article', () => {
         return response.body.user.token
       })
       .as('loginToken')
-    cy.get('@loginToken').then(loginToken => {
-      cy.get('@articleCreated').then(articleCreated => {
+    cy.get('@loginToken').then((loginToken) => {
+      cy.get('@articleCreated').then((articleCreated) => {
         cy.intercept({
           method: 'GET',
-          url: `/api/articles/${articleCreated.body.article.slug}`
+          url: `/api/articles/${articleCreated.body.article.slug}`,
         }).as('getArticle')
         cy.visit(`/#/profile/${user.username}`, loginToken)
         cy.get(`[href="#/article/${articleCreated.body.article.slug}"]`).click()
@@ -106,29 +106,29 @@ describe('Article', () => {
         return response.body.user.token
       })
       .as('loginToken')
-    cy.get('@loginToken').then(loginToken => {
+    cy.get('@loginToken').then((loginToken) => {
       // edit existing article
-      cy.get('@articleCreated').then(articleCreated => {
+      cy.get('@articleCreated').then((articleCreated) => {
         // spy on "existing article" request
         cy.intercept({
           method: 'GET',
-          url: `/api/articles/${articleCreated.body.article.slug}`
+          url: `/api/articles/${articleCreated.body.article.slug}`,
         }).as('getArticle')
         cy.visit(
           `/#/article/${articleCreated.body.article.slug}/edit`,
-          loginToken
+          loginToken,
         )
         cy.wait('@getArticle')
-        cy.get('@article').then(article => {
+        cy.get('@article').then((article) => {
           // edit existing article
           newArticle(
             article.article3.title,
             article.article3.about,
-            article.article3.body
+            article.article3.body,
           )
         })
       })
-      cy.get('@article').then(article => {
+      cy.get('@article').then((article) => {
         // validation adjusted article status & title
         validateArticle('@getArticle', 200, article.article3.title)
       })
@@ -141,12 +141,12 @@ describe('Article', () => {
         return response.body.user.token
       })
       .as('loginToken')
-    cy.get('@loginToken').then(loginToken => {
-      cy.get('@articleCreated').then(articleCreated => {
+    cy.get('@loginToken').then((loginToken) => {
+      cy.get('@articleCreated').then((articleCreated) => {
         // spy on "existing article" request
         cy.intercept({
           method: 'GET',
-          url: `/api/articles/${articleCreated.body.article.slug}`
+          url: `/api/articles/${articleCreated.body.article.slug}`,
         }).as('getArticle')
         cy.visit(`/#/article/${articleCreated.body.article.slug}`, loginToken)
         cy.wait('@getArticle')
@@ -157,14 +157,14 @@ describe('Article', () => {
   })
 
   // article body, desc & title can't be blank
-  it('create failed', () => {
+  it.only('create failed', () => {
     openArticlePage()
     // load data from fixture
-    cy.get('@article').then(article => {
+    cy.get('@article').then((article) => {
       // submit new article
       newArticle(' ', ' ', ' ')
     })
-    cy.get('@article').then(article => {
+    cy.get('@article').then((article) => {
       validateArticleError('@getArticles', 422)
     })
   })

@@ -2,7 +2,7 @@ import {
   navigate,
   signUpWith,
   validateSignUp,
-  validateErrorMsg
+  validateErrorMsg,
 } from '../page-actions/register.page.js'
 import { createUser } from '../support/faker-generator.js'
 
@@ -12,19 +12,19 @@ describe('Sign up', () => {
 
   before(() => {
     userA = {
-      ...createUser()
+      ...createUser(),
     }
     cy.createUser(userA)
   })
 
   beforeEach(() => {
     user = {
-      ...createUser()
+      ...createUser(),
     }
     navigate()
     cy.intercept({
       method: 'POST',
-      url: '/api/users'
+      url: '/api/users',
     }).as('getUser')
   })
 
@@ -50,7 +50,7 @@ describe('Sign up', () => {
     validateSignUp('@getUser', 422, 'Unprocessable Entity')
     validateErrorMsg([
       'username has already been taken',
-      'email has already been taken'
+      'email has already been taken',
     ])
   })
 })

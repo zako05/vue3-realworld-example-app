@@ -6,7 +6,7 @@ describe('Login', () => {
 
   before(() => {
     userA = {
-      ...createUser()
+      ...createUser(),
     }
     cy.createUser(userA)
   })
@@ -14,7 +14,7 @@ describe('Login', () => {
   beforeEach(() => {
     cy.intercept({
       method: 'POST',
-      url: '/api/users/login'
+      url: '/api/users/login',
     }).as('getLogin')
     navigate()
   })

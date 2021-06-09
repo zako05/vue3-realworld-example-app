@@ -1,7 +1,7 @@
-Cypress.Commands.add('createUser', user => {
+Cypress.Commands.add('createUser', (user) => {
   Cypress.log({
     name: 'createUser',
-    message: `${user.username} | ${user.email} | ${user.password}`
+    message: `${user.username} | ${user.email} | ${user.password}`,
   })
 
   const apiUsers = `${Cypress.env('apiUrl')}/users`
@@ -14,11 +14,11 @@ Cypress.Commands.add('createUser', user => {
         user: {
           username: user.username,
           email: user.email,
-          password: user.password
-        }
-      }
+          password: user.password,
+        },
+      },
     })
-    .then(response => {
+    .then((response) => {
       expect(response.status).to.eq(200)
     })
 })

@@ -15,7 +15,7 @@ export const validateSignUp = (xhr, httpStatus, httpMsg) => {
   })
 }
 
-export const validateErrorMsg = msgs => {
+export const validateErrorMsg = (msgs) => {
   for (let i = 0; i < msgs.length; i++) {
     cy.get('ul.error-messages').contains(msgs[i]).should('be.visible')
   }

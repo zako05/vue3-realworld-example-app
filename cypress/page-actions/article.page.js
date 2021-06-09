@@ -34,8 +34,8 @@ export const validateArticle = (xhr, httpStatus, articleTitle = '') => {
 export const validateArticleError = (xhr, httpStatus) => {
   cy.wait(xhr).then(({ response }) => {
     expect(response.statusCode).to.eq(httpStatus)
-    expect(response.body.errors.title[0]).to.eq('can\'t be blank')
-    expect(response.body.errors.description[0]).to.eq('can\'t be blank')
-    expect(response.body.errors.body[0]).to.eq('can\'t be blank')
+    expect(response.body.errors.title[0]).to.eq("can't be blank")
+    expect(response.body.errors.description[0]).to.eq("can't be blank")
+    expect(response.body.errors.body[0]).to.eq("can't be blank")
   })
 }

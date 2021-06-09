@@ -1,19 +1,17 @@
 {
-  "article": {
-    "title": "Article title",
-    "slug": "article-title",
-    "body": "# Article body\n\nThis is **Strong** text",
-    "createdAt": "2020-11-01T14:59:39.404Z",
-    "updatedAt": "2020-11-01T14:59:39.404Z",
-    "tagList": [],
-    "description": "this is descripion",
-    "author": {
-      "username": "plumrx",
-      "bio": null,
-      "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
-      "following": false
-    },
-    "favorited": true,
-    "favoritesCount": 0
+  "article1": {
+    "title": "First article",
+    "about": "This is about first article",
+    "body": "# First article {enter} ## This is frist time {enter} I would like to thank you for this article."
+  },
+  "article2": {
+    "title": "Second article",
+    "about": "It's about second article",
+    "body": "# Second article {enter} ## This is second time {enter} I would like to thank you for this article."
+  },
+  "article3": {
+    "title": "Third article",
+    "about": "It's about third article",
+    "body": "# Third article {enter} ## This is third time {enter} I would like to thank you for this article."
   }
 }

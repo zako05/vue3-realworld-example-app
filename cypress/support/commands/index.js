@@ -26,3 +26,9 @@ import './article.commands.js'
 const faker = require('faker/locale/en')
 
 cy.faker = faker
+
+// >= 7.0.0 Cypress now catches uncaught errors and fails the test even if the application under test has defined window.onerror. Addresses https://github.com/cypress-io/cypress/issues/8802 & https://github.com/cypress-io/cypress/issues/8236
+
+Cypress.on('uncaught:exception', () => {
+  return false
+})

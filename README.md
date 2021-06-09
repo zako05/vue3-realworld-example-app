@@ -9,21 +9,15 @@ yarn install
 
 yarn dev
 
-# Build dist
-
-yarn build
-
-# Run unit tests
-
-yarn test:unit
-
 # Run E2E tests
 
-yarn run cypress
+yarn run cypress # open cypress runner
 
-yarn run test # run app first
+---
 
-yarn run test:ui # don't need to run app first
+yarn run test # headless / run app first
+
+yarn run test:ui # headless / don't need to run app first
 ```
 
 # What works?

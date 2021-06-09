@@ -6,17 +6,24 @@
 yarn install
 
 # Development
+
 yarn dev
 
 # Build dist
+
 yarn build
 
 # Run unit tests
+
 yarn test:unit
 
 # Run E2E tests
-yarn cypress open # with GUI
-yarn test:e2e # headless
+
+yarn run cypress
+
+yarn run test # run app first
+
+yarn run test:ui # don't need to run app first
 ```
 
 # What works?
